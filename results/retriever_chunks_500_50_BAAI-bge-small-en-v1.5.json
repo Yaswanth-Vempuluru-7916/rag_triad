@@ -13,7 +13,54 @@
     {
       "id": "q5ab64285554299637185c67c",
       "question": "George H. W. Bush,  a resident of West Oaks Subdivision in Houston Texas, became what number President in 1989?",
+      "expected_output": "41st",
+      "gold_doc_ids": [
+        "q5ab64285554299637185c67c_p1",
+        "q5ab64285554299637185c67c_p3"
+      ],
       "rr": 1.0,
+      "retrieved": [
+        {
+          "rank": 1,
+          "doc_id": "q5ab64285554299637185c67c_p1",
+          "chunk_idx": 0,
+          "similarity": 0.8293,
+          "is_gold": true,
+          "text": "West Oaks, Houston: West Oaks is a small subdivision in Houston, Texas.  It is east of, and in close proximity to, Tanglewood proper.  Mimi Swartz of \"National Geographic\" wrote that compared to River Oaks, West Oaks is \"more nondescript\".  Beginning in the 1990s, George H. W. Bush became a resident of the neighborhood."
+        },
+        {
+          "rank": 2,
+          "doc_id": "q5ab64285554299637185c67c_p3",
+          "chunk_idx": 0,
+          "similarity": 0.72,
+          "is_gold": true,
+          "text": "George H. W. Bush: George Herbert Walker Bush (born June 12, 1924) is an American politician who was the 41st President of the United States from 1989 to 1993 and the 43rd Vice President of the United States from 1981 to 1989.  A member of the Republican Party, he was previously a congressman, ambassador, and Director of Central Intelligence.  He is the oldest living former President and Vice President.  Previously known as simply \"George Bush\", since 2001, Bush has often been referred to as \"Ge"
+        },
+        {
+          "rank": 3,
+          "doc_id": "q5ab64285554299637185c67c_p6",
+          "chunk_idx": 0,
+          "similarity": 0.6956,
+          "is_gold": false,
+          "text": "West Oaks Mall (Houston): West Oaks Mall is a regional shopping mall located in the Alief area of the west side of Houston, Texas, USA, that opened in 1984.  With a trade area serving far western parts of Houston including a business clientele in the Energy Corridor and suburban neighborhoods west of George Bush Park in the Greater Katy and Fulshear areas, the mall is located at Texas State Highway 6 and Westheimer Road and can easily be accessed south on Highway 6 via Interstate 10."
+        },
+        {
+          "rank": 4,
+          "doc_id": "q5ab64285554299637185c67c_p7",
+          "chunk_idx": 0,
+          "similarity": 0.6635,
+          "is_gold": false,
+          "text": "Presidency of George H. W. Bush: The presidency of George H. W. Bush began at noon EST on January 20, 1989, when George H. W. Bush was inaugurated as 41st President of the United States, and ended on January 20, 1993.  Bush, a Republican, took office after a landslide victory over Democrat nominee Michael Dukakis in the 1988 presidential election.  He was the first sitting vice president to be elected president since Martin Van Buren in 1836.  Later, Bush, the 41st president, and his oldest son,"
+        },
+        {
+          "rank": 5,
+          "doc_id": "q5ab64285554299637185c67c_p0",
+          "chunk_idx": 0,
+          "similarity": 0.6571,
+          "is_gold": false,
+          "text": "Inauguration of George H. W. Bush: The inauguration of George H. W. Bush as the 41st President of the United States was held on Friday, January 20, 1989.  The inauguration marked the commencement of the four-year term of George H. W. Bush as President and Dan Quayle as Vice President.  Chief Justice William Rehnquist administered the presidential oath of office to Bush and Associate Justice Sandra Day O'Connor administered the vice presidential oath of office to Quayle."
+        }
+      ],
       "recall@1": 0.5,
       "precision@1": 1.0,
       "recall@3": 1.0,
@@ -24,7 +71,54 @@
     {
       "id": "q5a7d2afd5542995f4f402221",
       "question": "Who is older, Ferdi Taygan or Mahesh Bhupathi?",
+      "expected_output": "Ferdi Taygan",
+      "gold_doc_ids": [
+        "q5a7d2afd5542995f4f402221_p2",
+        "q5a7d2afd5542995f4f402221_p3"
+      ],
       "rr": 1.0,
+      "retrieved": [
+        {
+          "rank": 1,
+          "doc_id": "q5a7d2afd5542995f4f402221_p2",
+          "chunk_idx": 0,
+          "similarity": 0.6644,
+          "is_gold": true,
+          "text": "Ferdi Taygan: Ferdi Taygan (born December 5, 1956), is a former professional tennis player from the United States.  He is of Turkish descent."
+        },
+        {
+          "rank": 2,
+          "doc_id": "q5a7d2afd5542995f4f402221_p3",
+          "chunk_idx": 0,
+          "similarity": 0.554,
+          "is_gold": true,
+          "text": "Mahesh Bhupathi: Mahesh Shrinivas Bhupathi (born 7 June 1974) is a retired Indian professional tennis player.  In 1997, he became the first Indian to win a Grand Slam tournament (with Rika Hiraki).  With his win at the Australian Open mixed doubles in 2006, he joined the elite group of eight tennis players who have achieved a career Grand Slam in mixed doubles.  He is also the founder of International Premier Tennis League.  In December 2016, Bhupathi was appointed as India's next non-playing Da"
+        },
+        {
+          "rank": 3,
+          "doc_id": "q5a7d2afd5542995f4f402221_p7",
+          "chunk_idx": 0,
+          "similarity": 0.5036,
+          "is_gold": false,
+          "text": "2000 Wimbledon Championships \u2013 Men's Doubles: Mahesh Bhupathi and Leander Paes were the defending champions, but did not play together in the doubles.  Bhupathi partnered with David Prinosil and lost in the third round."
+        },
+        {
+          "rank": 4,
+          "doc_id": "q5a7d2afd5542995f4f402221_p4",
+          "chunk_idx": 0,
+          "similarity": 0.4921,
+          "is_gold": false,
+          "text": "Mahesh Bhupathi Tennis Academy: Mahesh Bhupathi Tennis Academy is a tennis training facility started by Indian tennis player Mahesh Bhupathi.  The Academy has facilities across 9 states in India as well as in the UAE."
+        },
+        {
+          "rank": 5,
+          "doc_id": "q5a7d2afd5542995f4f402221_p8",
+          "chunk_idx": 0,
+          "similarity": 0.4812,
+          "is_gold": false,
+          "text": "1982 US Open \u2013 Mixed Doubles: Anne Smith and Kevin Curren were the defending champions and won in the final 6\u20137, 7\u20136 (7\u20134), 7\u20136 (7\u20135) against Barbara Potter and Ferdi Taygan."
+        }
+      ],
       "recall@1": 0.5,
       "precision@1": 1.0,
       "recall@3": 1.0,
@@ -35,7 +129,54 @@
     {
       "id": "q5ae7c5ef5542993210983f44",
       "question": "Which North Central town in Florida is home to the punk rock band Against Me!?",
+      "expected_output": "Gainesville, Florida",
+      "gold_doc_ids": [
+        "q5ae7c5ef5542993210983f44_p5",
+        "q5ae7c5ef5542993210983f44_p7"
+      ],
       "rr": 1.0,
+      "retrieved": [
+        {
+          "rank": 1,
+          "doc_id": "q5ae7c5ef5542993210983f44_p7",
+          "chunk_idx": 0,
+          "similarity": 0.5848,
+          "is_gold": true,
+          "text": "Gainesville, Florida: Gainesville is the county seat and largest city in Alachua County, Florida, United States, and the principal city of the Gainesville, Florida Metropolitan Statistical Area (MSA).  The population of Gainesville in the 2013 US Census estimates was 127,488, a 2.4% growth from 2010.  Gainesville is the largest city in the region of North Central Florida.  It is also a component of the Gainesville-Lake City Combined Statistical Area, which had a 2013 population of 337,925."
+        },
+        {
+          "rank": 2,
+          "doc_id": "q5ae7c5ef5542993210983f44_p5",
+          "chunk_idx": 0,
+          "similarity": 0.5432,
+          "is_gold": true,
+          "text": "Don't Lose Touch: \"Don't Lose Touch\" is a song by the Gainesville, Florida-based punk rock band Against Me! , released as the first single from their 2005 album \"Searching for a Former Clarity\".  Like the second single \"From Her Lips to God's Ears (The Energizer)\", it was released exclusively on twelve-inch vinyl with a remixed version of the song as the A-side and the album version as the B-side.  The A-side version was remixed by German electronic music duo Mouse on Mars.  The single was limit"
+        },
+        {
+          "rank": 3,
+          "doc_id": "q5ae7c5ef5542993210983f44_p4",
+          "chunk_idx": 0,
+          "similarity": 0.489,
+          "is_gold": false,
+          "text": "Area 12 (band): Area 12 is a melodic punk rock band from Bogot\u00e1, Colombia.  The band was founded in 1998 as a school project.  They started out playing in small bars and venues in Bogot\u00e1.  It was not an easy start, full of adversity.  They contributed meaningfully to the creation of a Punk Rock scene in the city.  They are considered to be one of the pioneer bands of Colombian punk rock.  Their influences include punk rock, melodic punk, Latin punk and hard core punk.  They have been strongly in"
+        },
+        {
+          "rank": 4,
+          "doc_id": "q5ae7c5ef5542993210983f44_p8",
+          "chunk_idx": 0,
+          "similarity": 0.4883,
+          "is_gold": false,
+          "text": "Fear of a Punk Planet: Fear of a Punk Planet is the third album by the southern California punk rock band The Vandals, originally released in 1990 by Triple X Records.  It was their first album to include the lineup of Dave Quackenbush, Warren Fitzgerald, Joe Escalante and Josh Freese, solidifying the band's roster after several years of fluctuation.  This lineup would remain intact for the rest of the band's career, and for this reason \"Fear of a Punk Planet\" is considered by many fans to be th"
+        },
+        {
+          "rank": 5,
+          "doc_id": "q5ae7c5ef5542993210983f44_p4",
+          "chunk_idx": 1,
+          "similarity": 0.4874,
+          "is_gold": false,
+          "text": "nk and hard core punk.  They have been strongly influenced by bands such as NOFX and Bad Religion.  They have reached a mature and diverse sound over the years, creating their own lyric and musical style.  They have performed with bands such as Ska-p, Die toten hosen, MxPx, Voodoo Glow Skulls and Joey Cape from Lagwagon."
+        }
+      ],
       "recall@1": 0.5,
       "precision@1": 1.0,
       "recall@3": 1.0,
@@ -46,7 +187,54 @@
     {
       "id": "q5ab5057b5542991779162d56",
       "question": "What type of movie are Wishing Stairs and Voice?",
+      "expected_output": "South Korean horror film",
+      "gold_doc_ids": [
+        "q5ab5057b5542991779162d56_p0",
+        "q5ab5057b5542991779162d56_p8"
+      ],
       "rr": 1.0,
+      "retrieved": [
+        {
+          "rank": 1,
+          "doc_id": "q5ab5057b5542991779162d56_p0",
+          "chunk_idx": 0,
+          "similarity": 0.7697,
+          "is_gold": true,
+          "text": "Wishing Stairs: Wishing Stairs ( also known as Whispering Corridors 3: Wishing Stairs) is a 2003 South Korean horror film.  It is the third installment of the \"Whispering Corridors\" film series set in girls high schools, but, as with all films in the series, is unrelated to the others; apart from a song being sung in one scene that is a pivotal plot in \"Voice\"."
+        },
+        {
+          "rank": 2,
+          "doc_id": "q5ab5057b5542991779162d56_p8",
+          "chunk_idx": 0,
+          "similarity": 0.6592,
+          "is_gold": true,
+          "text": "Voice (film): Voice ( also known as Whispering Corridors 4: Voice and Voice Letter) is a 2005 South Korean horror film, and the fourth installment of the \"Whispering Corridors\" film series.  This film was the debut film for its three young actresses, as well as director Choi Ik-Hwan, who had served as an assistant director on the first film of the series."
+        },
+        {
+          "rank": 3,
+          "doc_id": "q5ab5057b5542991779162d56_p7",
+          "chunk_idx": 0,
+          "similarity": 0.6215,
+          "is_gold": false,
+          "text": "Song Ji-hyo: Cheon Soo-yeon (born Cheon Seong-im on August 15, 1981), better known by her stage name Song Ji-hyo, is a South Korean actress and model.  She made her acting debut in \"Wishing Stairs\" (2003), one of the horror \"Whispering Corridors film series\".  She then received further recognition for her roles in the romantic comedy drama \"Princess Hours\" (2006), the historical drama \"Jumong\" (2006), the historical film \"A Frozen Flower\" (2008), the crime film \"New World\" (2013), the romantic c"
+        },
+        {
+          "rank": 4,
+          "doc_id": "q5ab5057b5542991779162d56_p3",
+          "chunk_idx": 0,
+          "similarity": 0.5194,
+          "is_gold": false,
+          "text": "Ninnu Kori: Ninnu Kori (English: \"Wishing For You\" ) is a Telugu language romance film directed by debutant Shiva Nirvana and produced by DVV Danayya under DVV Entertainments.  Nani and Nivetha Thomas play the lead roles in the movie while Aadhi Pinisetty plays a pivotal role.  Gopi Sunder was roped in to compose music for the film.  Prawin Pudi and Karthik Ghattamaneni are the editor and cinematographer of this movie respectively.  The movie was launched in November 2016 and shooting commenced "
+        },
+        {
+          "rank": 5,
+          "doc_id": "q5a7cbf8c554299452d57b9f4_p7",
+          "chunk_idx": 0,
+          "similarity": 0.5126,
+          "is_gold": false,
+          "text": "Dinosaur (film): Dinosaur is a 2000 American CGI animated adventure film produced by Walt Disney Feature Animation and The Secret Lab and released by Walt Disney Pictures.  It is the 39th Disney animated feature film and Disney's The Secret Lab computer animated feature, though it is not officially labeled as one of the animated classics in the United Kingdom, where \"The Wild\" (2006) is included in the canon instead."
+        }
+      ],
       "recall@1": 0.5,
       "precision@1": 1.0,
       "recall@3": 1.0,
@@ -57,7 +245,54 @@
     {
       "id": "q5a7cbf8c554299452d57b9f4",
       "question": "Which came out first, Dinosaur or McFarland, USA",
+      "expected_output": "Dinosaur",
+      "gold_doc_ids": [
+        "q5a7cbf8c554299452d57b9f4_p5",
+        "q5a7cbf8c554299452d57b9f4_p7"
+      ],
       "rr": 1.0,
+      "retrieved": [
+        {
+          "rank": 1,
+          "doc_id": "q5a7cbf8c554299452d57b9f4_p5",
+          "chunk_idx": 0,
+          "similarity": 0.7159,
+          "is_gold": true,
+          "text": "McFarland, USA: McFarland, USA (also known as McFarland) is a 2015 American sports drama film directed by Niki Caro, produced by Mark Ciardi and Gordon Gray, written by Christopher Cleveland, Bettina Gilois and Grant Thompson with music composed by Ant\u00f4nio Pinto.  The film was co-produced by Walt Disney Pictures and Mayhem Pictures.  Based on the true story of a 1987 cross country team from a mainly Latino high school in McFarland, California, the film stars Kevin Costner as Jim White, the schoo"
+        },
+        {
+          "rank": 2,
+          "doc_id": "q5a7cbf8c554299452d57b9f4_p7",
+          "chunk_idx": 0,
+          "similarity": 0.6432,
+          "is_gold": true,
+          "text": "Dinosaur (film): Dinosaur is a 2000 American CGI animated adventure film produced by Walt Disney Feature Animation and The Secret Lab and released by Walt Disney Pictures.  It is the 39th Disney animated feature film and Disney's The Secret Lab computer animated feature, though it is not officially labeled as one of the animated classics in the United Kingdom, where \"The Wild\" (2006) is included in the canon instead."
+        },
+        {
+          "rank": 3,
+          "doc_id": "q5a7cbf8c554299452d57b9f4_p8",
+          "chunk_idx": 0,
+          "similarity": 0.6259,
+          "is_gold": false,
+          "text": "Fruitadens: Fruitadens is a genus of heterodontosaurid dinosaur.  The name means \"Fruita tooth\", in reference to Fruita, Colorado (USA), where its fossils were first found.  It is known from partial skulls and skeletons from at least four individuals of differing biological ages, found in Tithonian (Late Jurassic) rocks of the Morrison Formation in Colorado.  \"Fruitadens\" is the smallest known ornithischian dinosaur, with young adults estimated at 65 to in length and 0.5 to in weight.  It is int"
+        },
+        {
+          "rank": 4,
+          "doc_id": "q5a7cbf8c554299452d57b9f4_p1",
+          "chunk_idx": 1,
+          "similarity": 0.6125,
+          "is_gold": false,
+          "text": "se\", from the Horseshoe Canyon Formation of Alberta, Canada.  The etymology of \"Sphaerotholus\" is a combination of the Greek \"sphaira\", meaning \"ball\", and \"tholos\", meaning \"dome\", and is a reference to the characteristically dome-shaped pachycephalosaurian skull.  The survival of \"Sphaerotholus\" from the Campanian of New Mexico to the end of the Maastrichtian of Montana demonstrates that this taxon had both a relatively long duration (approximately 7-8\u00a0million years) and a widespread distribut"
+        },
+        {
+          "rank": 5,
+          "doc_id": "q5a7cbf8c554299452d57b9f4_p2",
+          "chunk_idx": 0,
+          "similarity": 0.6058,
+          "is_gold": false,
+          "text": "Oryctodromeus: Oryctodromeus (meaning \"digging runner\") was a genus of small ornithopod dinosaur.  Fossils are known from the middle Cretaceous Blackleaf Formation of southwestern Montana and the Wayan Formation of southeastern Idaho, USA, both of the Cenomanian stage, roughly 95 million years ago.  A member of the small, presumably fast-running herbivorous family Thescelosauridae, \"Oryctodromeus\" is the first dinosaur published that shows evidence of burrowing behavior."
+        }
+      ],
       "recall@1": 0.5,
       "precision@1": 1.0,
       "recall@3": 1.0,
@@ -68,7 +303,54 @@
     {
       "id": "q5a809b575542996402f6a59c",
       "question": "What former nose tackle announced ESPN College Football Friday Primetime in 2017?",
+      "expected_output": "Dusty Dvoracek",
+      "gold_doc_ids": [
+        "q5a809b575542996402f6a59c_p1",
+        "q5a809b575542996402f6a59c_p9"
+      ],
       "rr": 1.0,
+      "retrieved": [
+        {
+          "rank": 1,
+          "doc_id": "q5a809b575542996402f6a59c_p9",
+          "chunk_idx": 0,
+          "similarity": 0.8226,
+          "is_gold": true,
+          "text": "ESPN College Football Friday Primetime: ESPN College Football Friday Primetime is a live game presentation of Division 1-A college football on ESPN or sometimes ESPN2.  There is no main sponsor.  The game telecast airs every Friday night at 7:45pm ET during the college football regular season.  In 2017, the games will be announced by Adam Amin and Dusty Dvoracek.  The game is preceded by a 5-10 minute long segment of \"College Football Scoreboard\" with Adnan Virk, Danny Kanell and Joey Galloway. "
+        },
+        {
+          "rank": 2,
+          "doc_id": "q5a809b575542996402f6a59c_p6",
+          "chunk_idx": 0,
+          "similarity": 0.6827,
+          "is_gold": false,
+          "text": "Rich Dimler: Rich Dimler was a former nose tackle in the National Football League."
+        },
+        {
+          "rank": 3,
+          "doc_id": "q5a809b575542996402f6a59c_p4",
+          "chunk_idx": 0,
+          "similarity": 0.6613,
+          "is_gold": false,
+          "text": "Stan Mataele: Stan Mataele is a former nose tackle in the National Football League."
+        },
+        {
+          "rank": 4,
+          "doc_id": "q5a809b575542996402f6a59c_p1",
+          "chunk_idx": 0,
+          "similarity": 0.6541,
+          "is_gold": true,
+          "text": "Dusty Dvoracek: Dusty Dvoracek (born March 1, 1983) is a former American football nose tackle.  Drafted by the Chicago Bears of the National Football League in the third round of the 2006 NFL Draft, he played college football at Oklahoma and professionally with the Bears from 2006 to 2009 and the Omaha Nighthawks of the United Football League in 2010\u201311."
+        },
+        {
+          "rank": 5,
+          "doc_id": "q5a809b575542996402f6a59c_p2",
+          "chunk_idx": 0,
+          "similarity": 0.6517,
+          "is_gold": false,
+          "text": "Vince Villanucci: Vince Villanucci is a former nose tackle in the National Football League."
+        }
+      ],
       "recall@1": 0.5,
       "precision@1": 1.0,
       "recall@3": 0.5,
@@ -79,7 +361,54 @@
     {
       "id": "q5a86769c5542994775f60776",
       "question": "Armageddon in Retrospect was written by the author who was best known for what 1969 satire novel?",
+      "expected_output": "Slaughterhouse-Five",
+      "gold_doc_ids": [
+        "q5a86769c5542994775f60776_p0",
+        "q5a86769c5542994775f60776_p9"
+      ],
       "rr": 1.0,
+      "retrieved": [
+        {
+          "rank": 1,
+          "doc_id": "q5a86769c5542994775f60776_p9",
+          "chunk_idx": 0,
+          "similarity": 0.7128,
+          "is_gold": true,
+          "text": "Armageddon in Retrospect: Armageddon in Retrospect is a collection of short stories and essays about war and peace written by Kurt Vonnegut.  It is the first posthumous collection of his previously unpublished writings.  The book includes an introduction by Mark Vonnegut, a letter from Kurt to his family about his experiences as an American prisoner of war in Nazi Germany, and the fire-bombing of Dresden.  Like many of Vonnegut's other books, \"Armageddon in Retrospect\" is laden with handwritten "
+        },
+        {
+          "rank": 2,
+          "doc_id": "q5a86769c5542994775f60776_p0",
+          "chunk_idx": 0,
+          "similarity": 0.6612,
+          "is_gold": true,
+          "text": "Kurt Vonnegut: Kurt Vonnegut Jr. ( ; November 11, 1922April 11, 2007) was an American writer.  In a career spanning over 50 years, Vonnegut published 14 novels, three short story collections, five plays, and five works of non-fiction.  He is most famous for his darkly satirical, best-selling novel \"Slaughterhouse-Five\" (1969)."
+        },
+        {
+          "rank": 3,
+          "doc_id": "q5a86769c5542994775f60776_p3",
+          "chunk_idx": 0,
+          "similarity": 0.572,
+          "is_gold": false,
+          "text": "Hugh Gallagher (humorist): Hugh Gallagher is an author and musician from New York City.  He is best known for his satire, including his band Von Von Von, his award-winning satire on the college application essay, \"3A Essay\", and the novel \"Teeth\"."
+        },
+        {
+          "rank": 4,
+          "doc_id": "q5a86769c5542994775f60776_p2",
+          "chunk_idx": 0,
+          "similarity": 0.5658,
+          "is_gold": false,
+          "text": "Little Big Man (novel): Little Big Man is a 1964 novel by American author Thomas Berger.  Often described as a satire or parody of the western genre, the book is a modern example of picaresque fiction.  Berger made use of a large volume of overlooked first-person primary materials, such as diaries, letters, and memoirs, to fashion a wide-ranging and entertaining tale that comments on alienation, identity, and perceptions of reality.  Easily Berger's best known work, \"Little Big Man\" was made int"
+        },
+        {
+          "rank": 5,
+          "doc_id": "q5a86769c5542994775f60776_p5",
+          "chunk_idx": 0,
+          "similarity": 0.5636,
+          "is_gold": false,
+          "text": "Joanna Russ: Joanna Russ (February 22, 1937 \u2013 April 29, 2011) was an American writer, academic and radical feminist.  She is the author of a number of works of science fiction, fantasy and feminist literary criticism such as \"How to Suppress Women's Writing\", as well as a contemporary novel, \"On Strike Against God\", and one children's book, \"Kittatinny\".  She is best known for \"The Female Man\", a novel combining utopian fiction and satire, and the story \"When It Changed\"."
+        }
+      ],
       "recall@1": 0.5,
       "precision@1": 1.0,
       "recall@3": 1.0,
@@ -90,7 +419,54 @@
     {
       "id": "q5abb23035542992ccd8e7f22",
       "question": "Kenneth Arnold reported the first unidentified object sighting in what city and state in 1947?",
+      "expected_output": "Mount Rainier, Washington",
+      "gold_doc_ids": [
+        "q5abb23035542992ccd8e7f22_p0",
+        "q5abb23035542992ccd8e7f22_p4"
+      ],
       "rr": 1.0,
+      "retrieved": [
+        {
+          "rank": 1,
+          "doc_id": "q5abb23035542992ccd8e7f22_p0",
+          "chunk_idx": 0,
+          "similarity": 0.8436,
+          "is_gold": true,
+          "text": "Kenneth Arnold: Kenneth A. Arnold (March 29, 1915 \u2013 January 16, 1984) was an American aviator and businessman.  He is best known for making what is generally considered the first widely reported unidentified flying object sighting in the United States, after claiming to have seen nine unusual objects flying in tandem near Mount Rainier, Washington on June 24, 1947."
+        },
+        {
+          "rank": 2,
+          "doc_id": "q5abb23035542992ccd8e7f22_p8",
+          "chunk_idx": 0,
+          "similarity": 0.799,
+          "is_gold": false,
+          "text": "Kenneth Arnold UFO sighting: The Kenneth Arnold UFO sighting occurred on June 24, 1947, when private pilot Kenneth Arnold claimed that he saw a string of nine, shiny unidentified flying objects flying past Mount Rainier at speeds that Arnold estimated at a minimum of 1,200 miles an hour (1,932\u00a0km/hr).  This was the first post-War sighting in the United States that garnered nationwide news coverage and is credited with being the first of the modern era of UFO sightings, including numerous reporte"
+        },
+        {
+          "rank": 3,
+          "doc_id": "q5abb23035542992ccd8e7f22_p2",
+          "chunk_idx": 0,
+          "similarity": 0.7057,
+          "is_gold": false,
+          "text": "Nash-Fortenberry UFO sighting: The Nash-Fortenberry UFO sighting was an unidentified flying object sighting that occurred on July 14, 1952, when two commercial pilots (William B. Nash and William H. Fortenberry) claimed to have seen eight UFOs flying in a tight echelon formation over Chesapeake Bay in the state of Virginia."
+        },
+        {
+          "rank": 4,
+          "doc_id": "q5abb23035542992ccd8e7f22_p9",
+          "chunk_idx": 0,
+          "similarity": 0.6752,
+          "is_gold": false,
+          "text": "McMinnville UFO photographs: The McMinnville UFO photographs were taken on a farm near McMinnville, Oregon, United States, in 1950.  The photos were reprinted in \"Life\" magazine and in newspapers across the nation, and are often considered to be among the most famous ever taken of a UFO.  Most UFO skeptics have concluded that the photos are a hoax, but many ufologists continue to argue that the photos are genuine, and show an unidentified object in the sky."
+        },
+        {
+          "rank": 5,
+          "doc_id": "q5abb23035542992ccd8e7f22_p8",
+          "chunk_idx": 1,
+          "similarity": 0.6527,
+          "is_gold": false,
+          "text": "n era of UFO sightings, including numerous reported sightings over the next two to three weeks.  Arnold's description of the objects also led to the press quickly coining the terms \"flying saucer\" and \"flying disc\" as popular descriptive terms for UFOs."
+        }
+      ],
       "recall@1": 0.5,
       "precision@1": 1.0,
       "recall@3": 0.5,
@@ -101,7 +477,54 @@
     {
       "id": "q5abbdb195542993f40c73bf1",
       "question": "Which is larger, Garajonay National Park or Guadarrama National Park?",
+      "expected_output": "Sierra de Guadarrama National Park",
+      "gold_doc_ids": [
+        "q5abbdb195542993f40c73bf1_p5",
+        "q5abbdb195542993f40c73bf1_p6"
+      ],
       "rr": 1.0,
+      "retrieved": [
+        {
+          "rank": 1,
+          "doc_id": "q5abbdb195542993f40c73bf1_p5",
+          "chunk_idx": 0,
+          "similarity": 0.7377,
+          "is_gold": true,
+          "text": "Garajonay National Park: Garajonay National Park (Spanish: \"Parque nacional de Garajonay\" , ] ) is located in the center and north of the island of La Gomera, one of the Canary Islands (Spain).  It was declared a national park in 1981 and a World Heritage Site by UNESCO in 1986.  It occupies 40 km (15 sq mi) and it extends into each of the six municipalities on the island."
+        },
+        {
+          "rank": 2,
+          "doc_id": "q5abbdb195542993f40c73bf1_p6",
+          "chunk_idx": 0,
+          "similarity": 0.7195,
+          "is_gold": true,
+          "text": "Guadarrama National Park: Sierra de Guadarrama National Park (in Spanish: \"Parque Nacional de la Sierra de Guadarrama\") is a national park in Spain, covering nearly 34,000 hectares, the fifth largest in Spain's national parks system.  The Guadarrama mountain range (\"Sistema Central\") contains some ecologically valuable areas, located in the Community of Madrid and Castile and Le\u00f3n (provinces of Segovia and \u00c1vila).  The law that regulates the recently approved national park was published in the B"
+        },
+        {
+          "rank": 3,
+          "doc_id": "q5abbdb195542993f40c73bf1_p8",
+          "chunk_idx": 0,
+          "similarity": 0.5408,
+          "is_gold": false,
+          "text": "Hermigua: Hermigua is a town and a municipality in the northeastern part of La Gomera in the province of Santa Cruz de Tenerife of the Canary Islands, Spain.  It is located 12\u00a0km northwest of the island's capital, San Sebasti\u00e1n de la Gomera.  The Garajonay National Park covers the southern part of the municipality."
+        },
+        {
+          "rank": 4,
+          "doc_id": "q5abbdb195542993f40c73bf1_p3",
+          "chunk_idx": 0,
+          "similarity": 0.5241,
+          "is_gold": false,
+          "text": "Great Smoky Mountains National Park: Great Smoky Mountains National Park is a United States National Park and UNESCO World Heritage Site that straddles the ridgeline of the Great Smoky Mountains, part of the Blue Ridge Mountains, which are a division of the larger Appalachian Mountain chain.  The border between Tennessee and North Carolina runs northeast to southwest through the centerline of the park.  It is the most visited national park in the United States with over 11.3 million recreational"
+        },
+        {
+          "rank": 5,
+          "doc_id": "q5abbdb195542993f40c73bf1_p7",
+          "chunk_idx": 0,
+          "similarity": 0.5236,
+          "is_gold": false,
+          "text": "Badiar National Park: Badiar National Park (French: \"Parc National du Badiar\" ) is a national park in Guinea, on the border with Senegal and contiguous with Senegal's much larger Niokolo-Koba National Park.  It was established on 30 May 1985 (by ordonnance N\u00b0124/PRG/85), partly in response to Senegal's concern about poaching in Niokolo-Koba National Park.  Badiar is an International Union for Conservation of Nature Category II park."
+        }
+      ],
       "recall@1": 0.5,
       "precision@1": 1.0,
       "recall@3": 1.0,
@@ -112,7 +535,54 @@
     {
       "id": "q5ab1d7ac554299449642c7e6",
       "question": "Which genus has more species, Xanthoceras or Ehretia?",
+      "expected_output": "Ehretia",
+      "gold_doc_ids": [
+        "q5ab1d7ac554299449642c7e6_p0",
+        "q5ab1d7ac554299449642c7e6_p1"
+      ],
       "rr": 1.0,
+      "retrieved": [
+        {
+          "rank": 1,
+          "doc_id": "q5ab1d7ac554299449642c7e6_p1",
+          "chunk_idx": 0,
+          "similarity": 0.7579,
+          "is_gold": true,
+          "text": "Ehretia: Ehretia is a genus of flowering plants in the borage family, Boraginaceae.  It contains about 50 species.  The generic name honors German botanical illustrator Georg Dionysius Ehret (1708\u20131770)."
+        },
+        {
+          "rank": 2,
+          "doc_id": "q5ab1d7ac554299449642c7e6_p0",
+          "chunk_idx": 0,
+          "similarity": 0.6505,
+          "is_gold": true,
+          "text": "Xanthoceras: Xanthoceras sorbifolium (yellowhorn, shiny leaf yellowhorn, goldenhorn, Chinese flowering chestnut) is a woody perennial in the soapberry family, Sapindaceae, and the only species in the genus Xanthoceras.  It is native to northern China in the provinces of Gansu, Hebei, Henan, Liaoning, Nei Monggol, Ningxia, Shaanxi, and Shandong.  It is also cultivated in Russia, having been imported there since the 19th Century."
+        },
+        {
+          "rank": 3,
+          "doc_id": "q5a7cbf8c554299452d57b9f4_p1",
+          "chunk_idx": 1,
+          "similarity": 0.5056,
+          "is_gold": false,
+          "text": "se\", from the Horseshoe Canyon Formation of Alberta, Canada.  The etymology of \"Sphaerotholus\" is a combination of the Greek \"sphaira\", meaning \"ball\", and \"tholos\", meaning \"dome\", and is a reference to the characteristically dome-shaped pachycephalosaurian skull.  The survival of \"Sphaerotholus\" from the Campanian of New Mexico to the end of the Maastrichtian of Montana demonstrates that this taxon had both a relatively long duration (approximately 7-8\u00a0million years) and a widespread distribut"
+        },
+        {
+          "rank": 4,
+          "doc_id": "q5a7cbf8c554299452d57b9f4_p8",
+          "chunk_idx": 0,
+          "similarity": 0.5054,
+          "is_gold": false,
+          "text": "Fruitadens: Fruitadens is a genus of heterodontosaurid dinosaur.  The name means \"Fruita tooth\", in reference to Fruita, Colorado (USA), where its fossils were first found.  It is known from partial skulls and skeletons from at least four individuals of differing biological ages, found in Tithonian (Late Jurassic) rocks of the Morrison Formation in Colorado.  \"Fruitadens\" is the smallest known ornithischian dinosaur, with young adults estimated at 65 to in length and 0.5 to in weight.  It is int"
+        },
+        {
+          "rank": 5,
+          "doc_id": "q5a7cbf8c554299452d57b9f4_p9",
+          "chunk_idx": 1,
+          "similarity": 0.4932,
+          "is_gold": false,
+          "text": " suggested that it was a synonym of \"I. bernissartensis\".  Gregory S. Paul, working on a revision of iguanodont species, gave \"I.\" \"lakotaensis\" its own genus (\"Dakotadon\") in 2008."
+        }
+      ],
       "recall@1": 0.5,
       "precision@1": 1.0,
       "recall@3": 1.0,
@@ -123,7 +593,54 @@
     {
       "id": "q5a7e283655429965cec5eaab",
       "question": "The founder of this Canadian owned, American manufacturer of business jets for civilian and military developed this portable tape system.",
+      "expected_output": "8-track",
+      "gold_doc_ids": [
+        "q5a7e283655429965cec5eaab_p0",
+        "q5a7e283655429965cec5eaab_p5"
+      ],
       "rr": 1.0,
+      "retrieved": [
+        {
+          "rank": 1,
+          "doc_id": "q5a7e283655429965cec5eaab_p0",
+          "chunk_idx": 0,
+          "similarity": 0.6953,
+          "is_gold": true,
+          "text": "Learjet: Learjet is a Canadian owned, American manufacturer of business jets for civilian and military use based in Wichita, Kansas.  Founded in the late 1950s by William Powell Lear as Swiss American Aviation Corporation, it has been a subsidiary of Canadian Bombardier Aerospace since 1990, which markets it as the \"Bombardier Learjet Family\"."
+        },
+        {
+          "rank": 2,
+          "doc_id": "q5a7e283655429965cec5eaab_p5",
+          "chunk_idx": 0,
+          "similarity": 0.6759,
+          "is_gold": true,
+          "text": "Bill Lear: William Powell \"Bill\" Lear (June 26, 1902 \u2013 May 14, 1978) was an American inventor and businessman.  He is best known for founding the Lear Jet Corporation, a manufacturer of business jets.  He also invented the battery eliminator for the B battery, and developed the 8-track cartridge, an audio tape system.  Throughout his career of 46 years, Lear received over 120 patents."
+        },
+        {
+          "rank": 3,
+          "doc_id": "q5a7e283655429965cec5eaab_p2",
+          "chunk_idx": 0,
+          "similarity": 0.6147,
+          "is_gold": false,
+          "text": "Qualstar: Qualstar Corporation (NASDAQ:\u00a0QBAK ) is an American manufacturer of magnetic tape data storage products, based in Simi Valley, California.  It was founded in 1984 as a 9 track tape drive manufacturer, and now makes tape library products.  The company sold its last 9 track tape drive in 2006 and as of March 2006 has sold all remaining parts inventory to Vinastar, an aftermarket vendor."
+        },
+        {
+          "rank": 4,
+          "doc_id": "q5a7e283655429965cec5eaab_p4",
+          "chunk_idx": 0,
+          "similarity": 0.6125,
+          "is_gold": false,
+          "text": "TX-2 Tape System: The TX-2 Tape System was a magnetic tape data storage technology from the late 1950s.  It is the direct ancestor of LINCtape, used on the LINC laboratory computer."
+        },
+        {
+          "rank": 5,
+          "doc_id": "q5a7e283655429965cec5eaab_p8",
+          "chunk_idx": 1,
+          "similarity": 0.5982,
+          "is_gold": false,
+          "text": "d extensive knowledge of the emergency freight business and the operation of DC3s, Super DCs and DC4 aircraft due to his position within the inner circle at Millardair.  Dennis Chadala created Air 500 Limited on a shoe string, without financing and was the first airline to receive licensing and an operating certificate at Toronto's Pearson International Airport following deregulation of the aviation industry in Canada in 1985.  The airline grew rapidly adding an aircraft at the pace of 1 every s"
+        }
+      ],
       "recall@1": 0.5,
       "precision@1": 1.0,
       "recall@3": 1.0,
@@ -134,7 +651,54 @@
     {
       "id": "q5a7cf4e355429907fabef062",
       "question": "What was Todd Boehly's former position at the firm where Mark Walter is the CEO?",
+      "expected_output": "president",
+      "gold_doc_ids": [
+        "q5a7cf4e355429907fabef062_p3",
+        "q5a7cf4e355429907fabef062_p7"
+      ],
       "rr": 0.3333333333333333,
+      "retrieved": [
+        {
+          "rank": 1,
+          "doc_id": "q5a7cf4e355429907fabef062_p2",
+          "chunk_idx": 1,
+          "similarity": 0.7509,
+          "is_gold": false,
+          "text": "e Industries and Los Angeles Dodgers owner Todd Boehly."
+        },
+        {
+          "rank": 2,
+          "doc_id": "q5a7cf4e355429907fabef062_p4",
+          "chunk_idx": 0,
+          "similarity": 0.689,
+          "is_gold": false,
+          "text": "Mark Walter: Mark Walter is a founder and the chief executive officer of Guggenheim Partners, a privately held global financial services firm with more than $300\u00a0billion in assets under management and headquarters in Chicago and New York.  He is also the Chairman of the Los Angeles Dodgers Major League Baseball franchise."
+        },
+        {
+          "rank": 3,
+          "doc_id": "q5a7cf4e355429907fabef062_p7",
+          "chunk_idx": 0,
+          "similarity": 0.655,
+          "is_gold": true,
+          "text": "Eldridge Industries: Eldridge Industries, LLC is a Private equity investment holdings firm owned by Todd Boehly, the former president of Guggenheim Partners. The company was formed via the corporate spin-off of the media properties of Guggenheim subsidiary Prometheus Global Media announced on December 17, 2015."
+        },
+        {
+          "rank": 4,
+          "doc_id": "q5a7cbf8c554299452d57b9f4_p6",
+          "chunk_idx": 0,
+          "similarity": 0.6186,
+          "is_gold": false,
+          "text": "Mark Ciardi: Mark Thomas Ciardi (born August 19, 1961; pronounced CHAR-dee) is an American film producer and former Major League Baseball pitcher.  He is currently the Founder & CEO of Apex Entertainment.  Mark has a rich breadth of experience as a Film Executive, and Producer.  Apex Entertainment is an independent content production firm that also serves as a financier for media properties.  Prior to Apex, Mark was the co-founder of Mayhem Pictures that had an overall first look deal with Walt "
+        },
+        {
+          "rank": 5,
+          "doc_id": "q5a7cf4e355429907fabef062_p3",
+          "chunk_idx": 0,
+          "similarity": 0.6037,
+          "is_gold": true,
+          "text": "Guggenheim Partners: Guggenheim Partners is a global investment and advisory financial services firm that engages in investment banking, capital markets services, investment management, investment advisory, and insurance services.  The firm is headquartered in New York City and Chicago with 2,300 staff located in 20 cities throughout the United States, Europe, and Asia.  It has more than $290 billion of assets under management.  The firm's CEO is Mark Walter.  It has six Managing Partners who ar"
+        }
+      ],
       "recall@1": 0.0,
       "precision@1": 0.0,
       "recall@3": 0.5,
@@ -145,7 +709,54 @@
     {
       "id": "q5ae4d3c95542990ba0bbb165",
       "question": "In what city can a person find both the Nusretiye Clock Tower and the Eski Imaret Mosque be found?",
+      "expected_output": "Istanbul, Turkey",
+      "gold_doc_ids": [
+        "q5ae4d3c95542990ba0bbb165_p3",
+        "q5ae4d3c95542990ba0bbb165_p8"
+      ],
       "rr": 1.0,
+      "retrieved": [
+        {
+          "rank": 1,
+          "doc_id": "q5ae4d3c95542990ba0bbb165_p8",
+          "chunk_idx": 0,
+          "similarity": 0.7235,
+          "is_gold": true,
+          "text": "Nusretiye Clock Tower: Nusretiye Clock Tower, aka Tophane Clock Tower, is a clock tower situated in Tophane, a neighborhood in Beyo\u011flu district of Istanbul, Turkey next to Nusretiye Mosque and Tophane Kiosk at the European waterfront of Bosphorus.  It was ordered by the Ottoman sultan Abd\u00fclmecid I (1823-1861), designed by architect Garabet Amira Balyan and completed in 1848."
+        },
+        {
+          "rank": 2,
+          "doc_id": "q5ae4d3c95542990ba0bbb165_p6",
+          "chunk_idx": 0,
+          "similarity": 0.668,
+          "is_gold": false,
+          "text": "Kumanovo Clock Tower: Kumanovo Clock Tower (Macedonian: \u0421\u0430\u0430\u0442 \u041a\u0443\u043b\u0430 \u041a\u0443\u043c\u0430\u043d\u043e\u0432\u043e ) was a clock tower in Kumanovo, Ottoman Empire (today Republic of Macedonia).  The tower is believed to have existed since the second half of the 18th century but there are now known historical facts.  It was near Eski Mosque in the former Orta Bunar Neighborhood (Macedonian: \u041e\u0440\u0442\u0430 \u0411\u0443\u043d\u0430\u0440 \u041c\u0430\u0430\u043b\u043e ).  It was demolished after the Second World War."
+        },
+        {
+          "rank": 3,
+          "doc_id": "q5ae4d3c95542990ba0bbb165_p3",
+          "chunk_idx": 0,
+          "similarity": 0.6568,
+          "is_gold": true,
+          "text": "Eski Imaret Mosque: Eski Imaret Mosque (Turkish: \"Eski Imaret Camii\" ) is a former Eastern Orthodox church converted into a mosque by the Ottomans.  The church has traditionally been identified with that belonging to the Monastery of Christ Pantepoptes (Greek: \u039c\u03bf\u03bd\u03ae \u03c4\u03bf\u03c5 \u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03cd \u03a0\u03b1\u03bd\u03c4\u03b5\u03c0\u03cc\u03c0\u03c4\u03b7 ), meaning \"Christ the all-seeing\".  It is the only documented 11th-century church in Istanbul which survives intact, and represents a key monument of middle Byzantine architecture.  Despite that, the building r"
+        },
+        {
+          "rank": 4,
+          "doc_id": "q5ae4d3c95542990ba0bbb165_p2",
+          "chunk_idx": 1,
+          "similarity": 0.6115,
+          "is_gold": false,
+          "text": "e mosque is 15 metres and 35 metres from the basement of the mosque.  The minarets of the mosque has 25 metres length above the roof of the mosque and 45 metres from the basement of the mosque.  The upper part of the minarets is 5 metres .  It has special section and used to call to prayers (A'zaan).  A towering clock tower with a big clock is located in the north of the mosque and this tower can be seen from all the four sides of the mosque."
+        },
+        {
+          "rank": 5,
+          "doc_id": "q5ae4d3c95542990ba0bbb165_p7",
+          "chunk_idx": 0,
+          "similarity": 0.6059,
+          "is_gold": false,
+          "text": "Hysen Pasha Mosque: Hysen Pasha Mosque (Albanian: \"Xhamia e Hysen Pash\u00ebs\" ) or Clock Mosque \"(Xhamia e Sahatit)\" is a Cultural Monument of Albania, located in Berat.  It was built in 1670 by Hussein Pasha.  It is named Clock Mosque because in 1870 the Ottomans built a clock tower next to it.  The clock tower was destroyed during the Communist dictatorship in 1967.  The mosque also got destroyed with the minaret being the only part left over.  After the end of Communism the mosque got renovated."
+        }
+      ],
       "recall@1": 0.5,
       "precision@1": 1.0,
       "recall@3": 1.0,
@@ -156,7 +767,54 @@
     {
       "id": "q5a7652435542992d0ec060a5",
       "question": "Who was the first Russian composer to make a lasting impression internationally, Alessandro Scarlatti or Pyotr Ilyich Tchaikovsky?",
+      "expected_output": "Pyotr Ilyich Tchaikovsky",
+      "gold_doc_ids": [
+        "q5a7652435542992d0ec060a5_p0",
+        "q5a7652435542992d0ec060a5_p3"
+      ],
       "rr": 1.0,
+      "retrieved": [
+        {
+          "rank": 1,
+          "doc_id": "q5a7652435542992d0ec060a5_p3",
+          "chunk_idx": 0,
+          "similarity": 0.7723,
+          "is_gold": true,
+          "text": "Pyotr Ilyich Tchaikovsky: Pyotr Ilyich Tchaikovsky ( ; Russian: \u041f\u0451\u0442\u0440 \u0418\u043b\u044c\u0438\u0301\u0447 \u0427\u0430\u0439\u043a\u043e\u0301\u0432\u0441\u043a\u0438\u0439 ; 25 April/7 May 1840 \u2013 25 October/6 November 1893), often anglicized as Peter Ilich Tchaikovsky, was a Russian composer of the romantic period, some of whose works are among the most popular music in the classical repertoire.  He was the first Russian composer whose music made a lasting impression internationally, bolstered by his appearances as a guest conductor in Europe and the United States.  Tchaikovsky"
+        },
+        {
+          "rank": 2,
+          "doc_id": "q5a7652435542992d0ec060a5_p0",
+          "chunk_idx": 0,
+          "similarity": 0.6779,
+          "is_gold": true,
+          "text": "Alessandro Scarlatti: Pietro Alessandro Gaspare Scarlatti (2 May 1660 \u2013 22 October 1725) was an Italian Baroque composer, especially famous for his operas and chamber cantatas.  He is considered the founder of the Neapolitan school of opera.  He was the father of two other composers, Domenico Scarlatti and Pietro Filippo Scarlatti."
+        },
+        {
+          "rank": 3,
+          "doc_id": "q5a7652435542992d0ec060a5_p8",
+          "chunk_idx": 0,
+          "similarity": 0.6549,
+          "is_gold": false,
+          "text": "International Tchaikovsky Competition: The International Tchaikovsky Competition is a classical-music competition held every four years in Moscow, Russia, for pianists, violinists, and cellists between 16 and 32 years of age, and singers between 19 and 32 years of age.  The competition is named after Russian composer Pyotr Ilyich Tchaikovsky and is an active member of the World Federation of International Music Competitions."
+        },
+        {
+          "rank": 4,
+          "doc_id": "q5a7652435542992d0ec060a5_p9",
+          "chunk_idx": 1,
+          "similarity": 0.6524,
+          "is_gold": false,
+          "text": " Pyotr Ilyich Tchaikovsky.  Alongside his Piano Concerto No. 2 and Piano Concerto No. 3, this symphony remains one of the composer's best known compositions."
+        },
+        {
+          "rank": 5,
+          "doc_id": "q5a7652435542992d0ec060a5_p5",
+          "chunk_idx": 0,
+          "similarity": 0.6348,
+          "is_gold": false,
+          "text": "Tchaikovsky (film): Tchaikovsky (Russian: \u0427\u0430\u0439\u043a\u043e\u0432\u0441\u043a\u0438\u0439 ) is a 1970 Soviet biopic film directed by Igor Talankin.  It featured Innokenty Smoktunovsky in the role of the famous Russian composer Pyotr Ilyich Tchaikovsky.  It was nominated for the 1971 Academy Award for Best Foreign Language Film as well as the Academy Award for Original Song Score and Adaptation."
+        }
+      ],
       "recall@1": 0.5,
       "precision@1": 1.0,
       "recall@3": 1.0,
@@ -167,7 +825,54 @@
     {
       "id": "q5a7b7ff75542995eb53be93d",
       "question": "Who was born first, Arthur Conan Doyle or Penelope Lively?",
+      "expected_output": "Arthur Ignatius Conan Doyle",
+      "gold_doc_ids": [
+        "q5a7b7ff75542995eb53be93d_p3",
+        "q5a7b7ff75542995eb53be93d_p6"
+      ],
       "rr": 1.0,
+      "retrieved": [
+        {
+          "rank": 1,
+          "doc_id": "q5a7b7ff75542995eb53be93d_p6",
+          "chunk_idx": 0,
+          "similarity": 0.8017,
+          "is_gold": true,
+          "text": "Penelope Lively: Dame Penelope Margaret Lively DBE FRSL (born 17 March 1933) is a British writer of fiction for both children and adults.  She has won both the Booker Prize (\"Moon Tiger\", 1987) and the Carnegie Medal for British children's books (\"The Ghost of Thomas Kempe\", 1973)."
+        },
+        {
+          "rank": 2,
+          "doc_id": "q5a7b7ff75542995eb53be93d_p3",
+          "chunk_idx": 0,
+          "similarity": 0.6644,
+          "is_gold": true,
+          "text": "Arthur Conan Doyle: Sir Arthur Ignatius Conan Doyle KStJ, DL (22 May 1859 \u2013 7 July 1930) was a British writer best known for his detective fiction featuring the character Sherlock Holmes.  Originally a physician, in 1887 he published \"A Study in Scarlet\", the first of four novels about Holmes and Dr. Watson.  In addition, Doyle wrote over fifty short stories featuring the famous detective."
+        },
+        {
+          "rank": 3,
+          "doc_id": "q5a7b7ff75542995eb53be93d_p9",
+          "chunk_idx": 0,
+          "similarity": 0.5881,
+          "is_gold": false,
+          "text": "Adrian Conan Doyle: Adrian Malcolm Conan Doyle (19 November 19103 June 1970) was the youngest son of Sir Arthur Conan Doyle and his second wife Jean, Lady Doyle or Lady Conan Doyle.  He had two siblings, sister Jean and brother Denis, as well as two half-siblings, sister Mary and brother Kingsley."
+        },
+        {
+          "rank": 4,
+          "doc_id": "q5a7b7ff75542995eb53be93d_p5",
+          "chunk_idx": 2,
+          "similarity": 0.545,
+          "is_gold": false,
+          "text": "ion of The Friends of the Arthur Conan Doyle Collection, Toronto Public Libraries."
+        },
+        {
+          "rank": 5,
+          "doc_id": "q5a7b7ff75542995eb53be93d_p1",
+          "chunk_idx": 0,
+          "similarity": 0.5405,
+          "is_gold": false,
+          "text": "The Adventure of the Empty House: \"The Adventure of the Empty House\", one of the 56 Sherlock Holmes short stories written by British author Sir Arthur Conan Doyle, is one of 13 stories in the cycle collected as \"The Return of Sherlock Holmes\".  Public pressure forced Conan Doyle to bring the sleuth back to life, and explain his apparently miraculous survival of a deadly struggle with Professor Moriarty.  Doyle ranked \"The Adventure of the Empty House\" sixth in his list of his twelve favorite Hol"
+        }
+      ],
       "recall@1": 0.5,
       "precision@1": 1.0,
       "recall@3": 1.0,
