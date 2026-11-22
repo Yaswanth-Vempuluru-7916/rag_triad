@@ -1,0 +1,24 @@
+[project]
+name = "ragscope"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Yaswanth-Vempuluru-7916", email = "yaswanthvempuluru@outlook.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "chromadb>=1.5.9",
+    "datasets>=5.2.0",
+    "ollama>=0.6.3",
+    "sentence-transformers>=6.3.0",
+]
+
+[build-system]
+requires = ["uv_build>=0.13.6,<0.14.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+]
