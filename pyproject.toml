@@ -8,9 +8,12 @@ authors = [
 ]
 requires-python = ">=3.13"
 dependencies = [
+    "anthropic>=2.12.0",
     "chromadb>=1.5.9",
     "datasets>=5.2.0",
     "ollama>=0.6.3",
+    "openai>=3.57.0",
+    "python-dotenv>=1.2.4",
     "sentence-transformers>=6.3.0",
 ]
 

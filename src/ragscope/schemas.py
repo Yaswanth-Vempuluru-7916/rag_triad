@@ -11,3 +11,11 @@ class Chunk:
     doc_id: str
     chunk_idx: int
     text: str
+
+
+@dataclass(frozen=True)
+class RetrievedChunk:
+    doc_id: str
+    chunk_idx: int
+    text: str
+    similarity: float  # cosine similarity, higher = closer
