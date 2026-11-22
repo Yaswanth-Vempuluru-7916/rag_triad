@@ -1,0 +1,907 @@
+[
+  {
+    "id": "q5ab64285554299637185c67c",
+    "question": "George H. W. Bush,  a resident of West Oaks Subdivision in Houston Texas, became what number President in 1989?",
+    "expected_output": "41st",
+    "query_type": "bridge",
+    "level": "hard",
+    "gold_doc_ids": [
+      "q5ab64285554299637185c67c_p1",
+      "q5ab64285554299637185c67c_p3"
+    ],
+    "passages": [
+      {
+        "doc_id": "q5ab64285554299637185c67c_p0",
+        "title": "Inauguration of George H. W. Bush",
+        "text": "Inauguration of George H. W. Bush: The inauguration of George H. W. Bush as the 41st President of the United States was held on Friday, January 20, 1989.  The inauguration marked the commencement of the four-year term of George H. W. Bush as President and Dan Quayle as Vice President.  Chief Justice William Rehnquist administered the presidential oath of office to Bush and Associate Justice Sandra Day O'Connor administered the vice presidential oath of office to Quayle."
+      },
+      {
+        "doc_id": "q5ab64285554299637185c67c_p1",
+        "title": "West Oaks, Houston",
+        "text": "West Oaks, Houston: West Oaks is a small subdivision in Houston, Texas.  It is east of, and in close proximity to, Tanglewood proper.  Mimi Swartz of \"National Geographic\" wrote that compared to River Oaks, West Oaks is \"more nondescript\".  Beginning in the 1990s, George H. W. Bush became a resident of the neighborhood."
+      },
+      {
+        "doc_id": "q5ab64285554299637185c67c_p2",
+        "title": "Willowick Place, Houston",
+        "text": "Willowick Place, Houston: Willowick Place at River Oaks was a proposed gated community in Houston, Texas, United States.  The neighborhood would have been in close proximity to the River Oaks subdivision."
+      },
+      {
+        "doc_id": "q5ab64285554299637185c67c_p3",
+        "title": "George H. W. Bush",
+        "text": "George H. W. Bush: George Herbert Walker Bush (born June 12, 1924) is an American politician who was the 41st President of the United States from 1989 to 1993 and the 43rd Vice President of the United States from 1981 to 1989.  A member of the Republican Party, he was previously a congressman, ambassador, and Director of Central Intelligence.  He is the oldest living former President and Vice President.  Previously known as simply \"George Bush\", since 2001, Bush has often been referred to as \"George H. W. Bush\", \"Bush 41\", \"Bush the Elder\", or \"George Bush Senior\" to distinguish him from his eldest son, George W. Bush, the 43rd President of the United States."
+      },
+      {
+        "doc_id": "q5ab64285554299637185c67c_p4",
+        "title": "West Oaks",
+        "text": "West Oaks: West Oaks is a neighborhood in Minot, North Dakota.  The neighborhood is bounded by Oak Park to the North, the Souris River to the east, the Soo Line Railroad tracks to the south and Sixteenth Street SW.  The neighborhood is home to the West Oaks Animal Hospital, the West Oaks Apartments, Harleys Automotive Center and gas station, Eagles Wings Community Fellowship and a number of single family homes.  Oak Park's south entrance is located in the neighborhood on Oak Drive SW.  A thin strip of land between the Oak Park Oxbow and the Souris River connects the park with the neighborhood.  The neighborhood was greatly impacted by the Souris River flood in 2011.  In June 2011, the Washington Post printed a story about the Minot flood on the front page with an accompanying photograph of Harleys and the nearby Arrowhead Mall.  Water inundated both structures, despite the large dikes constructed around both buildings.  On June 26, 2011, the New York Times also printed an article with an aerial photograph of the flooded Harleys.  Similar aerial photographs of the flood at that location are displayed at the Harleys gas station."
+      },
+      {
+        "doc_id": "q5ab64285554299637185c67c_p5",
+        "title": "George Bush Intercontinental Airport",
+        "text": "George Bush Intercontinental Airport: George Bush Intercontinental Airport (IATA: IAH, ICAO: KIAH, FAA LID: IAH) is an international airport in Houston, Texas, United States, under class B airspace, serving the Greater Houston metropolitan area, the fifth-largest metropolitan area in the United States.  Located about 23 mi north of Downtown Houston, between Interstate 45 and Interstate 69/U.S. Highway 59 with direct access to the Hardy Toll Road expressway, George Bush Intercontinental Airport has scheduled flights to a large number of domestic and international destinations.  The airport is named after George H. W. Bush, the 41st President of the United States."
+      },
+      {
+        "doc_id": "q5ab64285554299637185c67c_p6",
+        "title": "West Oaks Mall (Houston)",
+        "text": "West Oaks Mall (Houston): West Oaks Mall is a regional shopping mall located in the Alief area of the west side of Houston, Texas, USA, that opened in 1984.  With a trade area serving far western parts of Houston including a business clientele in the Energy Corridor and suburban neighborhoods west of George Bush Park in the Greater Katy and Fulshear areas, the mall is located at Texas State Highway 6 and Westheimer Road and can easily be accessed south on Highway 6 via Interstate 10."
+      },
+      {
+        "doc_id": "q5ab64285554299637185c67c_p7",
+        "title": "Presidency of George H. W. Bush",
+        "text": "Presidency of George H. W. Bush: The presidency of George H. W. Bush began at noon EST on January 20, 1989, when George H. W. Bush was inaugurated as 41st President of the United States, and ended on January 20, 1993.  Bush, a Republican, took office after a landslide victory over Democrat nominee Michael Dukakis in the 1988 presidential election.  He was the first sitting vice president to be elected president since Martin Van Buren in 1836.  Later, Bush, the 41st president, and his oldest son, George W. Bush, the country's 43rd (2001–2009), would become only the second father and son pair to become president.  (John Adams and John Quincy Adams were the first.)  Bush was denied a second term in the 1992 presidential election, which was won by Democrat Bill Clinton."
+      },
+      {
+        "doc_id": "q5ab64285554299637185c67c_p8",
+        "title": "USS Houston (SSN-713)",
+        "text": "USS Houston (SSN-713): USS \"Houston\" (SSN-713), a \"Los Angeles\"-class attack submarine, was the fourth ship of the United States Navy to be named for Houston, Texas.  The contract to build her was awarded to Newport News Shipbuilding and Dry Dock Company in Newport News, Virginia on 1 August 1975 and her keel was laid down on 29 January 1979.  She was launched on 21 March 1981 sponsored by Barbara Bush, wife of then Vice-President of the United States George H. W. Bush.  \"Houston\" was commissioned on 25 September 1982, with Captain G. H. Mensch in command.  Curiously, her hull number matches the area code for the interior portion (inside the Beltway/Sam Houston Tollway, as of 2000) of Metropolitan Houston, which is also 713, but at the time she was built 713 encompassed most of Metro Houston within Harris County."
+      },
+      {
+        "doc_id": "q5ab64285554299637185c67c_p9",
+        "title": "Neil Bush",
+        "text": "Neil Bush: Neil Mallon Pierce Bush (born January 22, 1955) is an American businessman and investor.  He is the fourth of six children of former President George H. W. Bush and Barbara Bush (née Pierce).  His five siblings are George W. Bush, the 43rd President of the United States; Jeb Bush, a former governor of Florida; Robin Bush, who died of leukemia at the age of three; Marvin; and Dorothy.  Neil Bush is currently a businessman based in Texas."
+      }
+    ]
+  },
+  {
+    "id": "q5a7d2afd5542995f4f402221",
+    "question": "Who is older, Ferdi Taygan or Mahesh Bhupathi?",
+    "expected_output": "Ferdi Taygan",
+    "query_type": "comparison",
+    "level": "hard",
+    "gold_doc_ids": [
+      "q5a7d2afd5542995f4f402221_p2",
+      "q5a7d2afd5542995f4f402221_p3"
+    ],
+    "passages": [
+      {
+        "doc_id": "q5a7d2afd5542995f4f402221_p0",
+        "title": "1983 Volvo International – Doubles",
+        "text": "1983 Volvo International – Doubles: Sherwood Stewart and Ferdi Taygan were the defending champions but they competed with different partners that year, Stewart with Mark Edmondson and Taygan with Cássio Motta."
+      },
+      {
+        "doc_id": "q5a7d2afd5542995f4f402221_p1",
+        "title": "1982 French Open – Men's Doubles",
+        "text": "1982 French Open – Men's Doubles: The Men's Doubles tournament at the 1982 French Open was held from 24 May until 6 June 1982 on the outdoor clay courts at the Stade Roland Garros in Paris, France.  Sherwood Stewart and Ferdi Taygan won the title, defeating Hans Gildemeister and Belus Prajoux in the final."
+      },
+      {
+        "doc_id": "q5a7d2afd5542995f4f402221_p2",
+        "title": "Ferdi Taygan",
+        "text": "Ferdi Taygan: Ferdi Taygan (born December 5, 1956), is a former professional tennis player from the United States.  He is of Turkish descent."
+      },
+      {
+        "doc_id": "q5a7d2afd5542995f4f402221_p3",
+        "title": "Mahesh Bhupathi",
+        "text": "Mahesh Bhupathi: Mahesh Shrinivas Bhupathi (born 7 June 1974) is a retired Indian professional tennis player.  In 1997, he became the first Indian to win a Grand Slam tournament (with Rika Hiraki).  With his win at the Australian Open mixed doubles in 2006, he joined the elite group of eight tennis players who have achieved a career Grand Slam in mixed doubles.  He is also the founder of International Premier Tennis League.  In December 2016, Bhupathi was appointed as India's next non-playing Davis Cup captain and took over the reins from Anand Amritraj in February 2017."
+      },
+      {
+        "doc_id": "q5a7d2afd5542995f4f402221_p4",
+        "title": "Mahesh Bhupathi Tennis Academy",
+        "text": "Mahesh Bhupathi Tennis Academy: Mahesh Bhupathi Tennis Academy is a tennis training facility started by Indian tennis player Mahesh Bhupathi.  The Academy has facilities across 9 states in India as well as in the UAE."
+      },
+      {
+        "doc_id": "q5a7d2afd5542995f4f402221_p5",
+        "title": "1982 U.S. Pro Indoor – Doubles",
+        "text": "1982 U.S. Pro Indoor – Doubles: Marty Riessen and Sherwood Stewart were the defending champions, but Riessen did not participate this year.  Stewart partnered Ferdi Taygan, finishing runner-up."
+      },
+      {
+        "doc_id": "q5a7d2afd5542995f4f402221_p6",
+        "title": "1983 Donnay Indoor Championships – Doubles",
+        "text": "1983 Donnay Indoor Championships – Doubles: Pavel Složil and Sherwood Stewart were the defending champions, but Složil did not participate this year.  Stewart partnered Ferdi Taygan, losing in the first round."
+      },
+      {
+        "doc_id": "q5a7d2afd5542995f4f402221_p7",
+        "title": "2000 Wimbledon Championships – Men's Doubles",
+        "text": "2000 Wimbledon Championships – Men's Doubles: Mahesh Bhupathi and Leander Paes were the defending champions, but did not play together in the doubles.  Bhupathi partnered with David Prinosil and lost in the third round."
+      },
+      {
+        "doc_id": "q5a7d2afd5542995f4f402221_p8",
+        "title": "1982 US Open – Mixed Doubles",
+        "text": "1982 US Open – Mixed Doubles: Anne Smith and Kevin Curren were the defending champions and won in the final 6–7, 7–6 (7–4), 7–6 (7–5) against Barbara Potter and Ferdi Taygan."
+      },
+      {
+        "doc_id": "q5a7d2afd5542995f4f402221_p9",
+        "title": "1982 Volvo Masters – Doubles",
+        "text": "1982 Volvo Masters – Doubles: Peter Fleming and John McEnroe won in the final 6–4, 6–3 against Sherwood Stewart and Ferdi Taygan."
+      }
+    ]
+  },
+  {
+    "id": "q5ae7c5ef5542993210983f44",
+    "question": "Which North Central town in Florida is home to the punk rock band Against Me!?",
+    "expected_output": "Gainesville, Florida",
+    "query_type": "bridge",
+    "level": "hard",
+    "gold_doc_ids": [
+      "q5ae7c5ef5542993210983f44_p5",
+      "q5ae7c5ef5542993210983f44_p7"
+    ],
+    "passages": [
+      {
+        "doc_id": "q5ae7c5ef5542993210983f44_p0",
+        "title": "Punks Not Dead",
+        "text": "Punks Not Dead: Punks Not Dead is the debut studio album by the Scottish punk rock band The Exploited, released in April 1981 on Secret Records.  Strongly working class and loyal to the first impulses of the 1970s punk movement, the album was a reaction to critics who believed the punk rock genre was dead, and went against popular trends such as new wave and post-punk.  The album – and especially the title track – is a reaction to the punk rock band Crass' song \"Punk is Dead\".  It contains the double A side singles \"Army Life/Fuck the Mods\" and the later follow up \"I Believe in Anarchy\".  \"Army Life\" details the experiences of Wattie Buchan when he was a 17-year-old squaddie on a tour of duty in Belfast in the 1970s."
+      },
+      {
+        "doc_id": "q5ae7c5ef5542993210983f44_p1",
+        "title": "Rancid (band)",
+        "text": "Rancid (band): Rancid is an American punk rock band formed in Berkeley, California in 1991.  Founded by 1980s punk veterans Tim Armstrong and Matt Freeman, who previously played in the highly influential ska punk band Operation Ivy, Rancid is often credited (along with Green Day and The Offspring) for reviving mainstream interest in punk rock in the United States and bringing punk rock into the mainstream during the mid-1990s.  Over their 26 -year career, Rancid remained signed to an independent record label and retained much of its original fan-base, most of which was connected to its underground roots."
+      },
+      {
+        "doc_id": "q5ae7c5ef5542993210983f44_p2",
+        "title": "G.a.s. Drummers",
+        "text": "G.a.s. Drummers: G.a.s. Drummers was a melodic hardcore band formed in Jerez de la Frontera, Spain at the end of 1997 by three teenagers who stood out from their other students due to their colourful hair dies and their taste in the california punk rock bands such as Bad Religion, Operation Ivy, NOFX, Lagwagon, The Descendents etc.  Original members from other small local bands Dani Llamas (guitar and vocals), Pakomoto (Bass and vocals) and Rafa Camison (Drums) started playing together and composing their own music and after one year of sending demos around the country they got put as the opening act for Swedish Punk Rock band Randy on their Spanish tour.  A tour that took the band through the whole country helping a lot of Spanish kids discover that there were actually Spanish bands capable of sounding as good as some of their favorite American bands.  This lead immediately the band to sign to a young record label called Slide Chorus Records a young emerging record label from Madrid which would start releasing albums for other Spanish Punk Rock bands.  This first release titled Proud To Be Nothing hit the streets at the end of 1999 and was presented on their first European tour which covered Spain, Great Britain, France and the Netherlands amongst Spanish punk rock legend[P.P.M."
+      },
+      {
+        "doc_id": "q5ae7c5ef5542993210983f44_p3",
+        "title": "Manic Hispanic",
+        "text": "Manic Hispanic: Manic Hispanic is a punk rock/Chicano rock band from Orange County and Los Angeles, California.  They are a semi-parodic act that plays cover versions of punk rock and hardcore punk \"standards\" by slightly renaming songs and adjusting lyrics to address Chicano culture.  The band's members are all Mexican or part Mexican and use stage names further marking the Mexican/Chicano image of the band.  Manic Hispanic is a punk supergroup made up of former and/or current members of The Adolescents, The Grabbers, Punk Rock Karaoke, The X-Members, 22 Jacks, Final Conflict, Agent Orange, Death by Stereo and The Cadillac Tramps."
+      },
+      {
+        "doc_id": "q5ae7c5ef5542993210983f44_p4",
+        "title": "Area 12 (band)",
+        "text": "Area 12 (band): Area 12 is a melodic punk rock band from Bogotá, Colombia.  The band was founded in 1998 as a school project.  They started out playing in small bars and venues in Bogotá.  It was not an easy start, full of adversity.  They contributed meaningfully to the creation of a Punk Rock scene in the city.  They are considered to be one of the pioneer bands of Colombian punk rock.  Their influences include punk rock, melodic punk, Latin punk and hard core punk.  They have been strongly influenced by bands such as NOFX and Bad Religion.  They have reached a mature and diverse sound over the years, creating their own lyric and musical style.  They have performed with bands such as Ska-p, Die toten hosen, MxPx, Voodoo Glow Skulls and Joey Cape from Lagwagon."
+      },
+      {
+        "doc_id": "q5ae7c5ef5542993210983f44_p5",
+        "title": "Don't Lose Touch",
+        "text": "Don't Lose Touch: \"Don't Lose Touch\" is a song by the Gainesville, Florida-based punk rock band Against Me! , released as the first single from their 2005 album \"Searching for a Former Clarity\".  Like the second single \"From Her Lips to God's Ears (The Energizer)\", it was released exclusively on twelve-inch vinyl with a remixed version of the song as the A-side and the album version as the B-side.  The A-side version was remixed by German electronic music duo Mouse on Mars.  The single was limited to 3,050 copies."
+      },
+      {
+        "doc_id": "q5ae7c5ef5542993210983f44_p6",
+        "title": "Stratford Mercenaries",
+        "text": "Stratford Mercenaries: Stratford Mercenaries were an English punk rock band that was formed in late 1995 by Gary \"Gazzer\" Buckley from the punk band Dirt and Ed \"Eddafed\" Addley from the punk band Suicidal Supermarket Trolleys.  The band was joined by Steve Ignorant from the punk rock band Crass and Phil Barker from the punk rock band the Buzzcocks in early 1996."
+      },
+      {
+        "doc_id": "q5ae7c5ef5542993210983f44_p7",
+        "title": "Gainesville, Florida",
+        "text": "Gainesville, Florida: Gainesville is the county seat and largest city in Alachua County, Florida, United States, and the principal city of the Gainesville, Florida Metropolitan Statistical Area (MSA).  The population of Gainesville in the 2013 US Census estimates was 127,488, a 2.4% growth from 2010.  Gainesville is the largest city in the region of North Central Florida.  It is also a component of the Gainesville-Lake City Combined Statistical Area, which had a 2013 population of 337,925."
+      },
+      {
+        "doc_id": "q5ae7c5ef5542993210983f44_p8",
+        "title": "Fear of a Punk Planet",
+        "text": "Fear of a Punk Planet: Fear of a Punk Planet is the third album by the southern California punk rock band The Vandals, originally released in 1990 by Triple X Records.  It was their first album to include the lineup of Dave Quackenbush, Warren Fitzgerald, Joe Escalante and Josh Freese, solidifying the band's roster after several years of fluctuation.  This lineup would remain intact for the rest of the band's career, and for this reason \"Fear of a Punk Planet\" is considered by many fans to be the first proper album by the \"new\" Vandals.  The album returned the band to their punk rock sound, after having played mostly in a country style on their previous album \"Slippery When Ill\".  The band would stick to a punk rock formula throughout the rest of their career.  The album's title called to mind the rap album \"Fear of a Black Planet\" by Public Enemy, released that same year.  It featured guest appearances by Dweezil and Moon Unit Zappa, Scott Thunes and Kelsey Grammer.  An independent music video was filmed for the album's first track, \"Pizza Tran.\""
+      },
+      {
+        "doc_id": "q5ae7c5ef5542993210983f44_p9",
+        "title": "Darby Crash",
+        "text": "Darby Crash: Darby Crash (formerly Bobby Pyn; born Jan Paul Beahm; September 26, 1958 – December 7, 1980) was an American punk rock vocalist and songwriter who, along with long-time friend Pat Smear (born Georg Ruthenberg), co-founded the punk rock band the Germs.  He committed suicide by way of an intentional heroin overdose.  In the years since his suicide at the age of 22, the Germs have attained legendary status among punk rock fans and musicians alike, as well as from the wider alternative rock and underground music community in general.  Crash has come to be revered as a unique and talented songwriter; his myriad literary, musical and philosophical influences, which varied from Friedrich Nietzsche and David Bowie to Charles Manson and Adolf Hitler, resulted in lyrics that were unusually wordy and impressionistic in the realm of punk rock at the time, immediately setting Crash and his band apart from most other Los Angeles punk groups that sprang up in the late 1970s."
+      }
+    ]
+  },
+  {
+    "id": "q5ab5057b5542991779162d56",
+    "question": "What type of movie are Wishing Stairs and Voice?",
+    "expected_output": "South Korean horror film",
+    "query_type": "bridge",
+    "level": "hard",
+    "gold_doc_ids": [
+      "q5ab5057b5542991779162d56_p0",
+      "q5ab5057b5542991779162d56_p8"
+    ],
+    "passages": [
+      {
+        "doc_id": "q5ab5057b5542991779162d56_p0",
+        "title": "Wishing Stairs",
+        "text": "Wishing Stairs: Wishing Stairs ( also known as Whispering Corridors 3: Wishing Stairs) is a 2003 South Korean horror film.  It is the third installment of the \"Whispering Corridors\" film series set in girls high schools, but, as with all films in the series, is unrelated to the others; apart from a song being sung in one scene that is a pivotal plot in \"Voice\"."
+      },
+      {
+        "doc_id": "q5ab5057b5542991779162d56_p1",
+        "title": "Rimstone",
+        "text": "Rimstone: Rimstone, also called gours, is a type of speleothem (cave formation) in the form of a stone dam.  Rimstone is made up of calcite and other minerals that build up in cave pools.  The formation created, which looks like stairs, often extends into flowstone above or below the original rimstone.  Often, rimstone is covered with small, micro-gours on horizontal surfaces.  Rimstone basins may form terraces that extend over hundreds of feet, with single basins known up to 200 feet long from Tham Xe Biang Fai in Laos"
+      },
+      {
+        "doc_id": "q5ab5057b5542991779162d56_p2",
+        "title": "Voice type",
+        "text": "Voice type: A voice type is a particular human singing voice identified as having certain qualities or characteristics of vocal range, vocal weight, tessitura, vocal timbre, and vocal transition points (\"passaggio\"), such as breaks and lifts within the voice.  Other considerations are physical characteristics, speech level, scientific testing, and vocal register.  A singer's voice type is identified by a process known as voice classification, by which the human voice is evaluated and thereby designated into a particular voice type.  The discipline of voice classification developed within European classical music and is not generally applicable to other forms of singing.  Voice classification is often used within opera to associate possible roles with potential voices.  Several different voice classification systems are available to identify voice types, including the German \"Fach\" system and the choral music system among many others; no system is universally applied or accepted."
+      },
+      {
+        "doc_id": "q5ab5057b5542991779162d56_p3",
+        "title": "Ninnu Kori",
+        "text": "Ninnu Kori: Ninnu Kori (English: \"Wishing For You\" ) is a Telugu language romance film directed by debutant Shiva Nirvana and produced by DVV Danayya under DVV Entertainments.  Nani and Nivetha Thomas play the lead roles in the movie while Aadhi Pinisetty plays a pivotal role.  Gopi Sunder was roped in to compose music for the film.  Prawin Pudi and Karthik Ghattamaneni are the editor and cinematographer of this movie respectively.  The movie was launched in November 2016 and shooting commenced in February 2017 in the United States.  The film released on July 7, 2017."
+      },
+      {
+        "doc_id": "q5ab5057b5542991779162d56_p4",
+        "title": "Highland Inn",
+        "text": "Highland Inn: The Highland Inn (1908–1957) was a year-round resort hotel built and operated by the Grand Trunk Railway (GTR), in Ontario’s Algonquin Provincial Park.  It was located near the park offices on the northern edge of Cache Lake, and was a focal point for the park for many years.  Wishing to return the park lands to a more natural state, the Inn was purchased by the Ontario Government in 1957 and removed.  Today all that remains are traces of the concrete stairs and platform that met the CNR line, which was lifted after departure of the last train in 1959."
+      },
+      {
+        "doc_id": "q5ab5057b5542991779162d56_p5",
+        "title": "List of ancient spiral stairs",
+        "text": "List of ancient spiral stairs: The list of ancient spiral stairs contains a selection of Greco-Roman spiral stairs constructed during classical antiquity.  The spiral stair is a type of stairway which, due to its complex helical structure, has been introduced relatively late into architecture.  Although the oldest example dates back to the 5th century BC, it was only in the wake of the influential design of the Trajan's Column that this space-saving new type permanently caught hold in Roman architecture."
+      },
+      {
+        "doc_id": "q5ab5057b5542991779162d56_p6",
+        "title": "Callington Mill",
+        "text": "Callington Mill: Callington Mill is a Lincolnshire tower mill built in 1837 in Oatlands, Tasmania by John Vincent.  It has recently been restored so that it is now in full working order and is the only operating mill of its type in the Southern Hemisphere.  It is the third oldest windmill in Australia.  Traditional baker and blacksmith Alan Scott was a central figure at the mill.  Today the mill is a major tourist attraction of Oatlands.  Visitors are able to climb the internal stairs for a view across Oatlands and surrounds.  The mill site comprises the windmill, a granary, stable, miller’s cottage and mill owner’s house."
+      },
+      {
+        "doc_id": "q5ab5057b5542991779162d56_p7",
+        "title": "Song Ji-hyo",
+        "text": "Song Ji-hyo: Cheon Soo-yeon (born Cheon Seong-im on August 15, 1981), better known by her stage name Song Ji-hyo, is a South Korean actress and model.  She made her acting debut in \"Wishing Stairs\" (2003), one of the horror \"Whispering Corridors film series\".  She then received further recognition for her roles in the romantic comedy drama \"Princess Hours\" (2006), the historical drama \"Jumong\" (2006), the historical film \"A Frozen Flower\" (2008), the crime film \"New World\" (2013), the romantic comedy drama \"Emergency Couple\" (2014), and family melodrama \"My Wife's Having an Affair this Week\" (2016)."
+      },
+      {
+        "doc_id": "q5ab5057b5542991779162d56_p8",
+        "title": "Voice (film)",
+        "text": "Voice (film): Voice ( also known as Whispering Corridors 4: Voice and Voice Letter) is a 2005 South Korean horror film, and the fourth installment of the \"Whispering Corridors\" film series.  This film was the debut film for its three young actresses, as well as director Choi Ik-Hwan, who had served as an assistant director on the first film of the series."
+      },
+      {
+        "doc_id": "q5ab5057b5542991779162d56_p9",
+        "title": "Exchange Ilford",
+        "text": "Exchange Ilford: The Exchange Ilford is the main retail shopping mall in the town centre of Ilford, London.  It was owned by The Mall Fund for a period of time but has now been sold and reverted to its original name of \"The Exchange Mall\".  It trades from three levels of retail, though its architectural design layout has resulted in the lower floor of retail being separated into two parts, meaning customers wishing to access both parts of the lower level have to travel between the sections via the middle level.  There is also an upper level of retail and food court facilities accessed from the middle level.  Transit between levels is via a series of lifts, stairs and escalators within the Mall; in addition, some stores trade from two or more levels of the mall."
+      }
+    ]
+  },
+  {
+    "id": "q5a7cbf8c554299452d57b9f4",
+    "question": "Which came out first, Dinosaur or McFarland, USA",
+    "expected_output": "Dinosaur",
+    "query_type": "comparison",
+    "level": "hard",
+    "gold_doc_ids": [
+      "q5a7cbf8c554299452d57b9f4_p5",
+      "q5a7cbf8c554299452d57b9f4_p7"
+    ],
+    "passages": [
+      {
+        "doc_id": "q5a7cbf8c554299452d57b9f4_p0",
+        "title": "Cinizasaurus",
+        "text": "Cinizasaurus: \"Cinizasaurus\" is an informal name for fossilized remains from the Late Triassic of New Mexico that were initially interpreted as belonging to a theropod dinosaur.  The remains, NMMNH P-18400, consist of a tibia, vertebrae, and fragments, and came from the ? late Carnian-age Upper Triassic Bluewater Creek Member of the Chinle Formation, near Fort Wingate.  Andrew Heckert, in his unpublished thesis, proposed the name \"Cinizasaurus hunti\" for the specimen, but the name was never adopted, and was first referred to in the scientific literature in a 2007 redescription of Late Triassic North American material thought to belong to dinosaurs (Nesbitt, Irmis, and Parker, 2007).  In the redescription, the authors could only assign the material to Archosauriformes."
+      },
+      {
+        "doc_id": "q5a7cbf8c554299452d57b9f4_p1",
+        "title": "Sphaerotholus",
+        "text": "Sphaerotholus: Sphaerotholus is a genus of pachycephalosaurid dinosaur from the Upper Cretaceous of the western United States and Canada.  To date, three species have been described: the type species, \"S. goodwini\", from the Den-na-zin Member of the Kirtland Formation (Late Campanian) of San Juan County, New Mexico, USA; \"S. buchholtzae\", from the Hell Creek Formation (Late Maastrichtian) of western Carter County, Montana, USA; and \"S. edmontonense\", from the Horseshoe Canyon Formation of Alberta, Canada.  The etymology of \"Sphaerotholus\" is a combination of the Greek \"sphaira\", meaning \"ball\", and \"tholos\", meaning \"dome\", and is a reference to the characteristically dome-shaped pachycephalosaurian skull.  The survival of \"Sphaerotholus\" from the Campanian of New Mexico to the end of the Maastrichtian of Montana demonstrates that this taxon had both a relatively long duration (approximately 7-8 million years) and a widespread distribution.  Williamson and Carr, who first described the genus in 2002, diagnose it as follows: \"Differs from all other pachycephalosaurids where known in the possession of a parietosquamosal bar that decreases in depth laterally as seen in caudal view and is bordered by a single row of nodes and one lateroventral corner node.\"  \"Sphaerotholus\" is considered a highly derived pachycephalosaur."
+      },
+      {
+        "doc_id": "q5a7cbf8c554299452d57b9f4_p2",
+        "title": "Oryctodromeus",
+        "text": "Oryctodromeus: Oryctodromeus (meaning \"digging runner\") was a genus of small ornithopod dinosaur.  Fossils are known from the middle Cretaceous Blackleaf Formation of southwestern Montana and the Wayan Formation of southeastern Idaho, USA, both of the Cenomanian stage, roughly 95 million years ago.  A member of the small, presumably fast-running herbivorous family Thescelosauridae, \"Oryctodromeus\" is the first dinosaur published that shows evidence of burrowing behavior."
+      },
+      {
+        "doc_id": "q5a7cbf8c554299452d57b9f4_p3",
+        "title": "Cryptoraptor",
+        "text": "Cryptoraptor: \"Cryptoraptor\" (meaning \"secret thief\") is an informal name for fossilized remains from the Late Triassic of New Mexico that were initially interpreted as belonging to a dinosaur.  The remains, NMMNH P-17375, consist of a fragmentary skeleton including vertebrae, a pubis, and parts of the thigh bones.  This specimen came from the Norian-age Upper Triassic Bull Canyon Formation in Quay County.  Adrian Hunt, in his unpublished dissertation, proposed the name \"Cryptoraptor lockleyi\" for the specimen, but the name was never adopted, and was first referred to in the scientific literature in a 2007 redescription of Late Triassic North American material thought to belong to dinosaurs (Nesbitt, Irmis, and Parker, 2007).  In the redescription, the authors could only assign the material to Archosauria."
+      },
+      {
+        "doc_id": "q5a7cbf8c554299452d57b9f4_p4",
+        "title": "Comanchesaurus",
+        "text": "Comanchesaurus: \"Comanchesaurus\" is an informal name for fossilized remains from the Late Triassic of New Mexico that were initially interpreted as belonging to a theropod dinosaur.  The remains, NMMNH P-4569, consist of a partial skeleton including vertebral centra and hindlimb bones, and came from the Norian-age Upper Triassic Bull Canyon Formation of Guadalupe County.  Adrian Hunt, in his unpublished dissertation, proposed the name \"Comanchesaurus kuesi\" for the specimen, but the name was never adopted, and was first referred to in the scientific literature in a 2007 redescription of Late Triassic North American material thought to belong to dinosaurs (Nesbitt, Irmis, and Parker, 2007).  In the redescription, the authors found the material to belong to a \"possible indeterminate saurischian\"."
+      },
+      {
+        "doc_id": "q5a7cbf8c554299452d57b9f4_p5",
+        "title": "McFarland, USA",
+        "text": "McFarland, USA: McFarland, USA (also known as McFarland) is a 2015 American sports drama film directed by Niki Caro, produced by Mark Ciardi and Gordon Gray, written by Christopher Cleveland, Bettina Gilois and Grant Thompson with music composed by Antônio Pinto.  The film was co-produced by Walt Disney Pictures and Mayhem Pictures.  Based on the true story of a 1987 cross country team from a mainly Latino high school in McFarland, California, the film stars Kevin Costner as Jim White, the school's coach, who leads the team to win a state championship.  The film also stars Maria Bello and Morgan Saylor."
+      },
+      {
+        "doc_id": "q5a7cbf8c554299452d57b9f4_p6",
+        "title": "Mark Ciardi",
+        "text": "Mark Ciardi: Mark Thomas Ciardi (born August 19, 1961; pronounced CHAR-dee) is an American film producer and former Major League Baseball pitcher.  He is currently the Founder & CEO of Apex Entertainment.  Mark has a rich breadth of experience as a Film Executive, and Producer.  Apex Entertainment is an independent content production firm that also serves as a financier for media properties.  Prior to Apex, Mark was the co-founder of Mayhem Pictures that had an overall first look deal with Walt Disney Studios for twelve years.  At Mayhem, Ciardi produced films including \"The Rookie\", \"Miracle\", Invincible, The Game Plan, Secretariat, and Million Dollar Arm and Kevin Costner's McFarland USA.  Awaiting release is the worldwide best-selling novel, Fallen.  He also produced the Emmy Award winning, ESPN 30 for 30 documentary titled \"Big Shot\"."
+      },
+      {
+        "doc_id": "q5a7cbf8c554299452d57b9f4_p7",
+        "title": "Dinosaur (film)",
+        "text": "Dinosaur (film): Dinosaur is a 2000 American CGI animated adventure film produced by Walt Disney Feature Animation and The Secret Lab and released by Walt Disney Pictures.  It is the 39th Disney animated feature film and Disney's The Secret Lab computer animated feature, though it is not officially labeled as one of the animated classics in the United Kingdom, where \"The Wild\" (2006) is included in the canon instead."
+      },
+      {
+        "doc_id": "q5a7cbf8c554299452d57b9f4_p8",
+        "title": "Fruitadens",
+        "text": "Fruitadens: Fruitadens is a genus of heterodontosaurid dinosaur.  The name means \"Fruita tooth\", in reference to Fruita, Colorado (USA), where its fossils were first found.  It is known from partial skulls and skeletons from at least four individuals of differing biological ages, found in Tithonian (Late Jurassic) rocks of the Morrison Formation in Colorado.  \"Fruitadens\" is the smallest known ornithischian dinosaur, with young adults estimated at 65 to in length and 0.5 to in weight.  It is interpreted as an omnivore and represents one of the latest-surviving heterodontosaurids."
+      },
+      {
+        "doc_id": "q5a7cbf8c554299452d57b9f4_p9",
+        "title": "Dakotadon",
+        "text": "Dakotadon: Dakotadon is a genus of iguanodont dinosaur from the Barremian-age Lower Cretaceous Lakota Formation of South Dakota, USA, known from a partial skull.  It was first described in 1989 as \"Iguanodon lakotaensis\", by David B. Weishampel and Philip R. Bjork.  Its assignment has been controversial.  Some researchers suggest that \"\"I.\" lakotaensis\" was more basal than \"I. bernissartensis\", and related to \"Theiophytalia\", but David Norman has suggested that it was a synonym of \"I. bernissartensis\".  Gregory S. Paul, working on a revision of iguanodont species, gave \"I.\" \"lakotaensis\" its own genus (\"Dakotadon\") in 2008."
+      }
+    ]
+  },
+  {
+    "id": "q5a809b575542996402f6a59c",
+    "question": "What former nose tackle announced ESPN College Football Friday Primetime in 2017?",
+    "expected_output": "Dusty Dvoracek",
+    "query_type": "bridge",
+    "level": "hard",
+    "gold_doc_ids": [
+      "q5a809b575542996402f6a59c_p1",
+      "q5a809b575542996402f6a59c_p9"
+    ],
+    "passages": [
+      {
+        "doc_id": "q5a809b575542996402f6a59c_p0",
+        "title": "Donnie Humphrey",
+        "text": "Donnie Humphrey: Donnie Ray Humphrey (April 20, 1961 – September 1, 2014) was a former nose tackle and defensive end in the National Football League."
+      },
+      {
+        "doc_id": "q5a809b575542996402f6a59c_p1",
+        "title": "Dusty Dvoracek",
+        "text": "Dusty Dvoracek: Dusty Dvoracek (born March 1, 1983) is a former American football nose tackle.  Drafted by the Chicago Bears of the National Football League in the third round of the 2006 NFL Draft, he played college football at Oklahoma and professionally with the Bears from 2006 to 2009 and the Omaha Nighthawks of the United Football League in 2010–11."
+      },
+      {
+        "doc_id": "q5a809b575542996402f6a59c_p2",
+        "title": "Vince Villanucci",
+        "text": "Vince Villanucci: Vince Villanucci is a former nose tackle in the National Football League."
+      },
+      {
+        "doc_id": "q5a809b575542996402f6a59c_p3",
+        "title": "Daryle Skaugstad",
+        "text": "Daryle Skaugstad: Daryle Skaugstad is a former nose tackle in the National Football League.  Skaugstad was drafted in the second round of the 1980 NFL Draft by the Houston Oilers and later played two seasons with the team.  He would split the 1983 NFL season between the San Francisco 49ers and the Green Bay Packers."
+      },
+      {
+        "doc_id": "q5a809b575542996402f6a59c_p4",
+        "title": "Stan Mataele",
+        "text": "Stan Mataele: Stan Mataele is a former nose tackle in the National Football League."
+      },
+      {
+        "doc_id": "q5a809b575542996402f6a59c_p5",
+        "title": "Tony DeLuca",
+        "text": "Tony DeLuca: Anthony Lawrence DeLuca (November 16, 1960 – April 16, 1999) was a former nose tackle in the National Football League.  He was a member of the Green Bay Packers during the 1984 NFL season."
+      },
+      {
+        "doc_id": "q5a809b575542996402f6a59c_p6",
+        "title": "Rich Dimler",
+        "text": "Rich Dimler: Rich Dimler was a former nose tackle in the National Football League."
+      },
+      {
+        "doc_id": "q5a809b575542996402f6a59c_p7",
+        "title": "Richard Turner (American football)",
+        "text": "Richard Turner (American football): Richard Turner is a former nose tackle in the National Football League.  He was drafted by the Green Bay Packers in the fourth round of the 1981 NFL Draft and played three seasons with the team."
+      },
+      {
+        "doc_id": "q5a809b575542996402f6a59c_p8",
+        "title": "David Caldwell (nose tackle)",
+        "text": "David Caldwell (nose tackle): David Caldwell is a former nose tackle in the National Football League and the Arena Football League."
+      },
+      {
+        "doc_id": "q5a809b575542996402f6a59c_p9",
+        "title": "ESPN College Football Friday Primetime",
+        "text": "ESPN College Football Friday Primetime: ESPN College Football Friday Primetime is a live game presentation of Division 1-A college football on ESPN or sometimes ESPN2.  There is no main sponsor.  The game telecast airs every Friday night at 7:45pm ET during the college football regular season.  In 2017, the games will be announced by Adam Amin and Dusty Dvoracek.  The game is preceded by a 5-10 minute long segment of \"College Football Scoreboard\" with Adnan Virk, Danny Kanell and Joey Galloway.  They both also present the halftime report."
+      }
+    ]
+  },
+  {
+    "id": "q5a86769c5542994775f60776",
+    "question": "Armageddon in Retrospect was written by the author who was best known for what 1969 satire novel?",
+    "expected_output": "Slaughterhouse-Five",
+    "query_type": "bridge",
+    "level": "hard",
+    "gold_doc_ids": [
+      "q5a86769c5542994775f60776_p0",
+      "q5a86769c5542994775f60776_p9"
+    ],
+    "passages": [
+      {
+        "doc_id": "q5a86769c5542994775f60776_p0",
+        "title": "Kurt Vonnegut",
+        "text": "Kurt Vonnegut: Kurt Vonnegut Jr. ( ; November 11, 1922April 11, 2007) was an American writer.  In a career spanning over 50 years, Vonnegut published 14 novels, three short story collections, five plays, and five works of non-fiction.  He is most famous for his darkly satirical, best-selling novel \"Slaughterhouse-Five\" (1969)."
+      },
+      {
+        "doc_id": "q5a86769c5542994775f60776_p1",
+        "title": "José María Gironella",
+        "text": "José María Gironella: José María Gironella Pous (31 December 1917 in Darnius – 3 January 2003 in Arenys de Mar) was a Spanish author best known for his fictional work \"The Cypresses Believe in God\" (\"Los cipreses creen en Dios\"), which was published in Spain in 1953 and translated into English by Harriet de Onís in 1955.  The book is a novel in two parts, and is the first novel of four, written from a Roman Catholic viewpoint, by its Catholic author, who had been educated in a seminary — but whose approach is notable for its even-handedness and fair assessment of the many nuances and subtleties among all factions on the eve of war.  The story is set in Girona, a city in eastern Catalonia, and follows the life of a family, from 1931 until the Spanish Civil War breaks out in 1936.  The protagonist is the son of an atheist from Madrid, who is married to a devout Basque woman, and has a younger brother and sister also caught up in the conflict.  In a sequel to \"Cypresses\", \"One Million Dead\" (\"Un millón de muertos\"), translated by Joan MacLean, Gironella follows the Alvear family through the war.  The next novel is \"Peace after War\", published in English in 1969, and was also translated by MacLean.  The fourth novel, Los hombres lloran solos (Men cry alone), has not been translated and published in English."
+      },
+      {
+        "doc_id": "q5a86769c5542994775f60776_p2",
+        "title": "Little Big Man (novel)",
+        "text": "Little Big Man (novel): Little Big Man is a 1964 novel by American author Thomas Berger.  Often described as a satire or parody of the western genre, the book is a modern example of picaresque fiction.  Berger made use of a large volume of overlooked first-person primary materials, such as diaries, letters, and memoirs, to fashion a wide-ranging and entertaining tale that comments on alienation, identity, and perceptions of reality.  Easily Berger's best known work, \"Little Big Man\" was made into a popular film by Arthur Penn.  It has been called \"Berger's response to the great American myth of the frontier, representing as it does most of the central traditions of American literature.\""
+      },
+      {
+        "doc_id": "q5a86769c5542994775f60776_p3",
+        "title": "Hugh Gallagher (humorist)",
+        "text": "Hugh Gallagher (humorist): Hugh Gallagher is an author and musician from New York City.  He is best known for his satire, including his band Von Von Von, his award-winning satire on the college application essay, \"3A Essay\", and the novel \"Teeth\"."
+      },
+      {
+        "doc_id": "q5a86769c5542994775f60776_p4",
+        "title": "The Magic Christian (novel)",
+        "text": "The Magic Christian (novel): The Magic Christian is a 1959 comic novel by American author Terry Southern (1924–1995) about an odd billionaire who spends most of his time playing elaborate practical jokes on people.  It is known for bringing Southern to the attention of filmmaker Stanley Kubrick, who had received a copy as a gift from Peter Sellers, and subsequently hired him as co-writer for \"Dr. Strangelove\" (1964) when Kubrick decided to make that film a black comedy/satire, rather than a straightforward thriller.  In 1969, \"The Magic Christian\" was made into a film starring Peter Sellers and Ringo Starr; the story was much altered and relocated from New York City to London."
+      },
+      {
+        "doc_id": "q5a86769c5542994775f60776_p5",
+        "title": "Joanna Russ",
+        "text": "Joanna Russ: Joanna Russ (February 22, 1937 – April 29, 2011) was an American writer, academic and radical feminist.  She is the author of a number of works of science fiction, fantasy and feminist literary criticism such as \"How to Suppress Women's Writing\", as well as a contemporary novel, \"On Strike Against God\", and one children's book, \"Kittatinny\".  She is best known for \"The Female Man\", a novel combining utopian fiction and satire, and the story \"When It Changed\"."
+      },
+      {
+        "doc_id": "q5a86769c5542994775f60776_p6",
+        "title": "Satyricon",
+        "text": "Satyricon: The Satyricon, or Satyricon \"liber\" (\"The Book of Satyrlike Adventures\"), is a Latin work of fiction believed to have been written by Gaius Petronius, though the manuscript tradition identifies the author as a certain Titus Petronius.  The Satyricon is an example of Menippean satire, which is very different from the formal verse satire of Juvenal or Horace.  The work contains a mixture of prose and verse (commonly known as \"prosimetrum\"); serious and comic elements; and erotic and decadent passages.  As with the \"Metamorphoses\" (also called \"The Golden Ass\") of Apuleius, classical scholars often describe it as a \"Roman novel\", without necessarily implying continuity with the modern literary form."
+      },
+      {
+        "doc_id": "q5a86769c5542994775f60776_p7",
+        "title": "Jaroslav Hašek",
+        "text": "Jaroslav Hašek: Jaroslav Hašek (] ; April 30, 1883 – January 3, 1923) was a Czech writer, humorist, satirist, journalist, bohemian and anarchist.  He is best known for his novel \"The Good Soldier Švejk\", an unfinished collection of farcical incidents about a soldier in World War I and a satire on the ineptitude of authority figures.  The novel has been translated into about 60 languages, making it the most translated novel in Czech literature.  He is also known as the Obscure Czech Writer."
+      },
+      {
+        "doc_id": "q5a86769c5542994775f60776_p8",
+        "title": "Claudia Durst Johnson",
+        "text": "Claudia Durst Johnson: Claudia Durst Johnson is a literary scholar best known for her work on the novel \"To Kill a Mockingbird\", introducing the idea of the novel's gothicism and gothic satire.  In the process of her research she befriended the author, Harper Lee.  When the city of Chicago organized a One City One Book program in 2001 based on \"To Kill a Mockingbird\", Lee was unavailable to speak, so Johnson was invited to Chicago to present the book to the city."
+      },
+      {
+        "doc_id": "q5a86769c5542994775f60776_p9",
+        "title": "Armageddon in Retrospect",
+        "text": "Armageddon in Retrospect: Armageddon in Retrospect is a collection of short stories and essays about war and peace written by Kurt Vonnegut.  It is the first posthumous collection of his previously unpublished writings.  The book includes an introduction by Mark Vonnegut, a letter from Kurt to his family about his experiences as an American prisoner of war in Nazi Germany, and the fire-bombing of Dresden.  Like many of Vonnegut's other books, \"Armageddon in Retrospect\" is laden with handwritten quotations and rough drawings by the author."
+      }
+    ]
+  },
+  {
+    "id": "q5abb23035542992ccd8e7f22",
+    "question": "Kenneth Arnold reported the first unidentified object sighting in what city and state in 1947?",
+    "expected_output": "Mount Rainier, Washington",
+    "query_type": "bridge",
+    "level": "hard",
+    "gold_doc_ids": [
+      "q5abb23035542992ccd8e7f22_p0",
+      "q5abb23035542992ccd8e7f22_p4"
+    ],
+    "passages": [
+      {
+        "doc_id": "q5abb23035542992ccd8e7f22_p0",
+        "title": "Kenneth Arnold",
+        "text": "Kenneth Arnold: Kenneth A. Arnold (March 29, 1915 – January 16, 1984) was an American aviator and businessman.  He is best known for making what is generally considered the first widely reported unidentified flying object sighting in the United States, after claiming to have seen nine unusual objects flying in tandem near Mount Rainier, Washington on June 24, 1947."
+      },
+      {
+        "doc_id": "q5abb23035542992ccd8e7f22_p1",
+        "title": "Unidentified submerged object",
+        "text": "Unidentified submerged object: An unidentified submerged object or USO is an unidentified object submerged in water.  The term is not necessarily paranormal."
+      },
+      {
+        "doc_id": "q5abb23035542992ccd8e7f22_p2",
+        "title": "Nash-Fortenberry UFO sighting",
+        "text": "Nash-Fortenberry UFO sighting: The Nash-Fortenberry UFO sighting was an unidentified flying object sighting that occurred on July 14, 1952, when two commercial pilots (William B. Nash and William H. Fortenberry) claimed to have seen eight UFOs flying in a tight echelon formation over Chesapeake Bay in the state of Virginia."
+      },
+      {
+        "doc_id": "q5abb23035542992ccd8e7f22_p3",
+        "title": "1976 Tehran UFO incident",
+        "text": "1976 Tehran UFO incident: The 1976 Tehran UFO Incident was a radar and visual sighting of an unidentified flying object (UFO) over Tehran, the capital of Iran, during the early morning hours of 19 September 1976.  During the incident, two F-4 Phantom II jet interceptors reported losing instrumentation and communications as they approached the object.  These were restored upon withdrawal."
+      },
+      {
+        "doc_id": "q5abb23035542992ccd8e7f22_p4",
+        "title": "World UFO Day",
+        "text": "World UFO Day: World UFO Day is an awareness day for people to gather together and watch the skies for unidentified flying objects.  The day is celebrated by some on June 24, and others on July 2.  June 24 is the date that aviator Kenneth Arnold reported what is generally considered to be the first widely reported unidentified flying object sighting in the United States, while July 2 commemorates the supposed UFO crash in the 1947 Roswell UFO Incident."
+      },
+      {
+        "doc_id": "q5abb23035542992ccd8e7f22_p5",
+        "title": "Right Said Fred (song)",
+        "text": "Right Said Fred (song): \"Right Said Fred\" is a novelty song written by Ted Dicks, and Myles Rudge, famously recorded as a single by Bernard Cribbins in 1962.  It reached number 10 in the UK Singles Chart.  It is about three men (the narrator, \"Fred\", and \"Charlie\") working as manual labourers who are trying to move an unidentified object (although it is clarified that it has feet, a seat, handles and candleholders) in a building without success, eventually failing and giving up after having dismantled said object, part-demolished the building (including removing a door, wall and the ceiling) and taking numerous tea breaks.  The lyrics do not specify whether Fred recovers from \"half a ton of rubble falling on his dome\" prior to the others having a final teabreak and going home."
+      },
+      {
+        "doc_id": "q5abb23035542992ccd8e7f22_p6",
+        "title": "BG Geminorum",
+        "text": "BG Geminorum: BG Geminorum is an eclipsing binary star system in the constellation Gemini.  It consists of a K0 supergiant with a more massive but unseen companion.  The companion is likely to be either a black hole or class B star.  Material from the K0 star is being transferred to an accretion disk surrounding the unidentified object."
+      },
+      {
+        "doc_id": "q5abb23035542992ccd8e7f22_p7",
+        "title": "Cash-Landrum incident",
+        "text": "Cash-Landrum incident: The Cash-Landrum Incident was a highly reported unidentified flying object sighting from the United States in 1980, which witnesses insist was responsible for damage to their health.  It is one of very few UFO cases to result in civil court proceedings."
+      },
+      {
+        "doc_id": "q5abb23035542992ccd8e7f22_p8",
+        "title": "Kenneth Arnold UFO sighting",
+        "text": "Kenneth Arnold UFO sighting: The Kenneth Arnold UFO sighting occurred on June 24, 1947, when private pilot Kenneth Arnold claimed that he saw a string of nine, shiny unidentified flying objects flying past Mount Rainier at speeds that Arnold estimated at a minimum of 1,200 miles an hour (1,932 km/hr).  This was the first post-War sighting in the United States that garnered nationwide news coverage and is credited with being the first of the modern era of UFO sightings, including numerous reported sightings over the next two to three weeks.  Arnold's description of the objects also led to the press quickly coining the terms \"flying saucer\" and \"flying disc\" as popular descriptive terms for UFOs."
+      },
+      {
+        "doc_id": "q5abb23035542992ccd8e7f22_p9",
+        "title": "McMinnville UFO photographs",
+        "text": "McMinnville UFO photographs: The McMinnville UFO photographs were taken on a farm near McMinnville, Oregon, United States, in 1950.  The photos were reprinted in \"Life\" magazine and in newspapers across the nation, and are often considered to be among the most famous ever taken of a UFO.  Most UFO skeptics have concluded that the photos are a hoax, but many ufologists continue to argue that the photos are genuine, and show an unidentified object in the sky."
+      }
+    ]
+  },
+  {
+    "id": "q5abbdb195542993f40c73bf1",
+    "question": "Which is larger, Garajonay National Park or Guadarrama National Park?",
+    "expected_output": "Sierra de Guadarrama National Park",
+    "query_type": "comparison",
+    "level": "hard",
+    "gold_doc_ids": [
+      "q5abbdb195542993f40c73bf1_p5",
+      "q5abbdb195542993f40c73bf1_p6"
+    ],
+    "passages": [
+      {
+        "doc_id": "q5abbdb195542993f40c73bf1_p0",
+        "title": "Utah State Route 9",
+        "text": "Utah State Route 9: State Route 9 (SR-9) is a state highway in southern Utah, serving Zion National Park.  It starts at the western terminus at exit 16 on I-15, passing through Zion National Park, and ending at the eastern junction with US-89.  The entire length of the highway has been designated the Zion Park Scenic Byway.  There is a fee to travel through Zion National Park, but the Zion-Mt.  Carmel Highway is open to private vehicles year-round.  A separate fee is required for vehicles 7'10\" wide and/or 11'4\" tall or larger.  This fee pays for a park employee to stop traffic from the other side of the Zion - Mt. Carmel Tunnel to allow the larger vehicles to pass through."
+      },
+      {
+        "doc_id": "q5abbdb195542993f40c73bf1_p1",
+        "title": "Gates of the Arctic National Park and Preserve",
+        "text": "Gates of the Arctic National Park and Preserve: Gates of the Arctic National Park and Preserve is a U.S. National Park in Alaska.  It is the northernmost national park in the U.S. (the entirety of the park lies north of the Arctic Circle) and the second largest at 8,472,506 acres , slightly larger in area than Belgium.  The park consists primarily of portions of the Brooks Range of mountains.  It was first protected as a U.S. National Monument on December 1, 1978, before becoming a national park and preserve two years later in 1980 upon passage of the Alaska National Interest Lands Conservation Act.  A large part of the park is protected in the Gates of the Arctic Wilderness which covers 7,167,192 acre .  The wilderness area adjoins the Noatak Wilderness Area and together they form the largest contiguous wilderness in the United States."
+      },
+      {
+        "doc_id": "q5abbdb195542993f40c73bf1_p2",
+        "title": "Pirin National Park",
+        "text": "Pirin National Park: Pirin National Park (Bulgarian: Национален парк \"Пирин\" ) is a national park that encompasses the larger part of the Pirin Mountains in south-west Bulgaria, spanning an area of 403.56 km2 .  It is one of the three national parks in the country, the others being Rila National Park and Central Balkan National Park.  The park was established in 1962 and its territory was expanded several times since then.  Pirin National Park was declared a UNESCO World Heritage Site in 1983.  The altitude varies from 950 m to 2,914 m at Vihren, Bulgaria's second highest summit and the Balkans' third."
+      },
+      {
+        "doc_id": "q5abbdb195542993f40c73bf1_p3",
+        "title": "Great Smoky Mountains National Park",
+        "text": "Great Smoky Mountains National Park: Great Smoky Mountains National Park is a United States National Park and UNESCO World Heritage Site that straddles the ridgeline of the Great Smoky Mountains, part of the Blue Ridge Mountains, which are a division of the larger Appalachian Mountain chain.  The border between Tennessee and North Carolina runs northeast to southwest through the centerline of the park.  It is the most visited national park in the United States with over 11.3 million recreational visitors in 2016.  On its route from Maine to Georgia, the Appalachian Trail also passes through the center of the park.  The park was chartered by the United States Congress in 1934 and officially dedicated by President Franklin Delano Roosevelt in 1940."
+      },
+      {
+        "doc_id": "q5abbdb195542993f40c73bf1_p4",
+        "title": "Phawngpui National Park",
+        "text": "Phawngpui National Park: Phawngpui National Park or Phawngpui Blue Mountain National Park is one of the two national parks of India in Mizoram, the other and the larger being Murlen National Park.  It is about 300 km from the main city Aizawl, located in the Lawngtlai district, towards the southeast of Mizoram and relatively close to Burma.  It bears the name of the mountain Phawngpui, often called the Blue Mountain of Mizoram, which is the highest mountain peak in the state, reaching 2,157 m asl.  The national park covers the entire mountain along with the surrounding reserve forest."
+      },
+      {
+        "doc_id": "q5abbdb195542993f40c73bf1_p5",
+        "title": "Garajonay National Park",
+        "text": "Garajonay National Park: Garajonay National Park (Spanish: \"Parque nacional de Garajonay\" , ] ) is located in the center and north of the island of La Gomera, one of the Canary Islands (Spain).  It was declared a national park in 1981 and a World Heritage Site by UNESCO in 1986.  It occupies 40 km (15 sq mi) and it extends into each of the six municipalities on the island."
+      },
+      {
+        "doc_id": "q5abbdb195542993f40c73bf1_p6",
+        "title": "Guadarrama National Park",
+        "text": "Guadarrama National Park: Sierra de Guadarrama National Park (in Spanish: \"Parque Nacional de la Sierra de Guadarrama\") is a national park in Spain, covering nearly 34,000 hectares, the fifth largest in Spain's national parks system.  The Guadarrama mountain range (\"Sistema Central\") contains some ecologically valuable areas, located in the Community of Madrid and Castile and León (provinces of Segovia and Ávila).  The law that regulates the recently approved national park was published in the BOE in  26, 2013 (2013--) ."
+      },
+      {
+        "doc_id": "q5abbdb195542993f40c73bf1_p7",
+        "title": "Badiar National Park",
+        "text": "Badiar National Park: Badiar National Park (French: \"Parc National du Badiar\" ) is a national park in Guinea, on the border with Senegal and contiguous with Senegal's much larger Niokolo-Koba National Park.  It was established on 30 May 1985 (by ordonnance N°124/PRG/85), partly in response to Senegal's concern about poaching in Niokolo-Koba National Park.  Badiar is an International Union for Conservation of Nature Category II park."
+      },
+      {
+        "doc_id": "q5abbdb195542993f40c73bf1_p8",
+        "title": "Hermigua",
+        "text": "Hermigua: Hermigua is a town and a municipality in the northeastern part of La Gomera in the province of Santa Cruz de Tenerife of the Canary Islands, Spain.  It is located 12 km northwest of the island's capital, San Sebastián de la Gomera.  The Garajonay National Park covers the southern part of the municipality."
+      },
+      {
+        "doc_id": "q5abbdb195542993f40c73bf1_p9",
+        "title": "Komodo National Park",
+        "text": "Komodo National Park: Komodo National Park is a national park in Indonesia located within the Lesser Sunda Islands in the border region between the provinces of East Nusa Tenggara and West Nusa Tenggara.  The park includes the three larger islands Komodo, Padar and Rinca, and 26 smaller ones, with a total area of 1,733 km (603 km of it land).  The national park was founded in 1980 to protect the Komodo dragon, the world's largest lizard.  Later it was dedicated to protecting other species, including marine species.  In 1991 the national park was declared a UNESCO World Heritage Site."
+      }
+    ]
+  },
+  {
+    "id": "q5ab1d7ac554299449642c7e6",
+    "question": "Which genus has more species, Xanthoceras or Ehretia?",
+    "expected_output": "Ehretia",
+    "query_type": "comparison",
+    "level": "hard",
+    "gold_doc_ids": [
+      "q5ab1d7ac554299449642c7e6_p0",
+      "q5ab1d7ac554299449642c7e6_p1"
+    ],
+    "passages": [
+      {
+        "doc_id": "q5ab1d7ac554299449642c7e6_p0",
+        "title": "Xanthoceras",
+        "text": "Xanthoceras: Xanthoceras sorbifolium (yellowhorn, shiny leaf yellowhorn, goldenhorn, Chinese flowering chestnut) is a woody perennial in the soapberry family, Sapindaceae, and the only species in the genus Xanthoceras.  It is native to northern China in the provinces of Gansu, Hebei, Henan, Liaoning, Nei Monggol, Ningxia, Shaanxi, and Shandong.  It is also cultivated in Russia, having been imported there since the 19th Century."
+      },
+      {
+        "doc_id": "q5ab1d7ac554299449642c7e6_p1",
+        "title": "Ehretia",
+        "text": "Ehretia: Ehretia is a genus of flowering plants in the borage family, Boraginaceae.  It contains about 50 species.  The generic name honors German botanical illustrator Georg Dionysius Ehret (1708–1770)."
+      }
+    ]
+  },
+  {
+    "id": "q5a7e283655429965cec5eaab",
+    "question": "The founder of this Canadian owned, American manufacturer of business jets for civilian and military developed this portable tape system.",
+    "expected_output": "8-track",
+    "query_type": "bridge",
+    "level": "hard",
+    "gold_doc_ids": [
+      "q5a7e283655429965cec5eaab_p0",
+      "q5a7e283655429965cec5eaab_p5"
+    ],
+    "passages": [
+      {
+        "doc_id": "q5a7e283655429965cec5eaab_p0",
+        "title": "Learjet",
+        "text": "Learjet: Learjet is a Canadian owned, American manufacturer of business jets for civilian and military use based in Wichita, Kansas.  Founded in the late 1950s by William Powell Lear as Swiss American Aviation Corporation, it has been a subsidiary of Canadian Bombardier Aerospace since 1990, which markets it as the \"Bombardier Learjet Family\"."
+      },
+      {
+        "doc_id": "q5a7e283655429965cec5eaab_p1",
+        "title": "General Electric CJ610",
+        "text": "General Electric CJ610: The General Electric CJ610 is a non-afterburning turbojet engine derived from the military J85, and is used on a number of civilian business jets.  The model has logged over 16.5 million hours of operation.  Civilian versions have powered business jets such as the Learjet 23 and the Hamburger Flugzeugbau HFB-320 Hansa Jet.  The engines are also used in the flyable Messerschmitt Me 262 reproductions built by the Me 262 Project in the United States."
+      },
+      {
+        "doc_id": "q5a7e283655429965cec5eaab_p2",
+        "title": "Qualstar",
+        "text": "Qualstar: Qualstar Corporation (NASDAQ: QBAK ) is an American manufacturer of magnetic tape data storage products, based in Simi Valley, California.  It was founded in 1984 as a 9 track tape drive manufacturer, and now makes tape library products.  The company sold its last 9 track tape drive in 2006 and as of March 2006 has sold all remaining parts inventory to Vinastar, an aftermarket vendor."
+      },
+      {
+        "doc_id": "q5a7e283655429965cec5eaab_p3",
+        "title": "Beechcraft",
+        "text": "Beechcraft: Beechcraft is a brand of Textron Aviation since 2014.  Originally, it was a brand of Beech Aircraft Corporation, an American manufacturer of general aviation, commercial, and military aircraft, ranging from light single-engined aircraft to twin-engined turboprop transports, business jets, and military trainers.  Beech later became a division of Raytheon and later Hawker Beechcraft before a bankruptcy sale turned its assets over to Textron (parent company of Beech's cross-town Wichita rival, Cessna Aircraft Company)."
+      },
+      {
+        "doc_id": "q5a7e283655429965cec5eaab_p4",
+        "title": "TX-2 Tape System",
+        "text": "TX-2 Tape System: The TX-2 Tape System was a magnetic tape data storage technology from the late 1950s.  It is the direct ancestor of LINCtape, used on the LINC laboratory computer."
+      },
+      {
+        "doc_id": "q5a7e283655429965cec5eaab_p5",
+        "title": "Bill Lear",
+        "text": "Bill Lear: William Powell \"Bill\" Lear (June 26, 1902 – May 14, 1978) was an American inventor and businessman.  He is best known for founding the Lear Jet Corporation, a manufacturer of business jets.  He also invented the battery eliminator for the B battery, and developed the 8-track cartridge, an audio tape system.  Throughout his career of 46 years, Lear received over 120 patents."
+      },
+      {
+        "doc_id": "q5a7e283655429965cec5eaab_p6",
+        "title": "EIAJ-1",
+        "text": "EIAJ-1: EIAJ-1 was a standard for video tape recorders (VTRs) developed by the Electronic Industries Association of Japan with the cooperation and assistance of several Japanese electronics manufacturers in 1969.  It was the first standardized format for industrial/non-broadcast VTRs using a Helical scan system employing open reel tape.  Previously, each manufacturer of machines in this market used a different proprietary format, with differing tape speeds, scanner drum diameters, bias frequencies, tracking head placement, and so on, although most used 1/2\" wide tape.  As a result, video tapes recorded on one make and/or model of VTR could only be interchanged with other machines using that specific format, hampering compatibility.  For example, a reel of tape recorded on a Panasonic machine would not play on a Sony machine, and vice versa.  The EIAJ-1 standard ended this incompatibility, giving those manufacturers a standardized format, interchangeable with almost all VTRs subsequently brought to market around that time.  The format offered black-and-white (and later colour) video recording and playback on 1/2\" magnetic tape on a 7\" diameter open reel, with portable units using smaller 5\" diameter reels."
+      },
+      {
+        "doc_id": "q5a7e283655429965cec5eaab_p7",
+        "title": "Cessna Citation family",
+        "text": "Cessna Citation family: The Cessna Citation is a market brand-name used by American manufacturer Cessna for its line of business jets. Rather than one particular model of aircraft, the name applies to several \"families\" of turbofan-powered aircraft that have been produced over the years.  Within each of the six distinct families, aircraft design improvements, market pressures and re-branding efforts have resulted in a number of variants, so that the Citation lineage has become quite complex.  Military variants include the T-47 and UC-35 series aircraft."
+      },
+      {
+        "doc_id": "q5a7e283655429965cec5eaab_p8",
+        "title": "Air 500",
+        "text": "Air 500: Air 500 Limited was a Canadian airline.  Founded in 1985 by Dennis Chadala, former Captain, director of marketing and assistant to Carl Millard, of the defunct Millardair.  The company commenced operations with 1 Super Beech 18 Model E, registered C-FTAE that was purchased from Bradley First Air where it had retired from flying the dew line in Northern Canada.  The Beech18 was originally purchased new by Timmins Aviation.  The founder had extensive knowledge of the emergency freight business and the operation of DC3s, Super DCs and DC4 aircraft due to his position within the inner circle at Millardair.  Dennis Chadala created Air 500 Limited on a shoe string, without financing and was the first airline to receive licensing and an operating certificate at Toronto's Pearson International Airport following deregulation of the aviation industry in Canada in 1985.  The airline grew rapidly adding an aircraft at the pace of 1 every six months.  By 1989 it had acquired almost all of the business flying ad hock charter out of Toronto for Chrysler, Ford, GM and many others formerly serviced by his former place of employment at Millardair.  The young owner's extensive knowledge of this niche area of aviation enabled him to expand rapidly and capture that market segment.  At the time, Air 500 was an exceptional success story operating 3 Super Beech 18 aircraft, 2 Cessna 310s, 1 DC3, 1 Super DC(C117), 1 Piper Cheyenne and 1 Mitsubishi MU2 Marquise.  In the early nineties, the fleet continued to grow adding 2 more Mitsubishi MU2 aircraft, 2 Citation 500 business jets and 1 Citation 2 business jet.  In 1995 the airport was privatized and came under the direction and control of the GTAA (Greater Toronto Airport Authority) and Dennis Chadala simultaneously acquired Hangar #7, the newest hangar facility at the north end of the Pearson Airport off Derry Road with 40 years remaining on the current land lease.  Air 500 had contracts in the courier industry, Air Ambulance Services and Aircraft Management as well as a base of operations at the Esso Avitat in Ottawa where 2 Mitsubishi Marquise MU2 aircraft were stationed.  One was flying an exclusive long term contract for Nordion (formerly Atomic Energy of Canada) flying radio active isotopes to numerous destinations in the United States for medical purposes as a well a designated charter aircraft.  Hangar #7 was large enough to lease out one half the facility to Air 500 Limited and the other half to Execaire/Innotech Aviation and they remained tenants of the hangar owned by Dennis Chadala until November 1998, at which time Execaire/Innotech owned by the IMP Group out of Halifax Nova Scotia struct a deal with Dennis Chadala to purchase his hangar facility, all his aircraft and the operating airline Air 500 Limited.  Dennis Chadala stayed on with the company during a short transition period that ended in February 1999.  Air 500 was amalgamated into Execaire and became part of that operating group taking advantage of the synergies available to them."
+      },
+      {
+        "doc_id": "q5a7e283655429965cec5eaab_p9",
+        "title": "Air charter",
+        "text": "Air charter: Air charter is the business of renting an entire aircraft (i.e., chartering) as opposed to individual aircraft seats (i.e., purchasing a ticket through a traditional airline).  While the airlines specialize in selling transportation by the seat, air charter companies focus on individual private aircraft and itineraries, urgent or time-sensitive cargo, air ambulance service, and other forms of \"ad hoc\" air transportation.  Some air charters brokers have been given economic authority to sell seats on private jets with mixed success.  Some air charter companies offer a large variety of aircraft, such as helicopters and business jets.  Charter jet categories include turbo props, light jets, mid-size jets, super mid-size jets, heavy jets, long-range jets and VIP airliners."
+      }
+    ]
+  },
+  {
+    "id": "q5a7cf4e355429907fabef062",
+    "question": "What was Todd Boehly's former position at the firm where Mark Walter is the CEO?",
+    "expected_output": "president",
+    "query_type": "bridge",
+    "level": "hard",
+    "gold_doc_ids": [
+      "q5a7cf4e355429907fabef062_p3",
+      "q5a7cf4e355429907fabef062_p7"
+    ],
+    "passages": [
+      {
+        "doc_id": "q5a7cf4e355429907fabef062_p0",
+        "title": "KCUL-FM",
+        "text": "KCUL-FM: KCUL-FM (92.3 FM) is a radio station broadcasting a Regional Mexican format.  Licensed to Marshall, Texas, United States, the station serves the Longview-Marshall area.  The station is currently owned by Todd Boehly, through licensee A.1 Investco LLC."
+      },
+      {
+        "doc_id": "q5a7cf4e355429907fabef062_p1",
+        "title": "Mark Dobie",
+        "text": "Mark Dobie: Mark Walter Graham Dobie (born 8 November 1963) is an English former professional football forward."
+      },
+      {
+        "doc_id": "q5a7cf4e355429907fabef062_p2",
+        "title": "Miami MLS team",
+        "text": "Miami MLS team: The Miami MLS team is a proposed professional soccer team to be based in Miami, Florida.  The year the team is scheduled to join Major League Soccer (MLS) is pending negotiations over stadium financing and location.  The ownership group, known as Miami Beckham United, is led by David Beckham, his business partner Simon Fuller, Miami-based Bolivian businessman Marcelo Claure, American sports executive Tim Leiweke and CEO of Eldridge Industries and Los Angeles Dodgers owner Todd Boehly."
+      },
+      {
+        "doc_id": "q5a7cf4e355429907fabef062_p3",
+        "title": "Guggenheim Partners",
+        "text": "Guggenheim Partners: Guggenheim Partners is a global investment and advisory financial services firm that engages in investment banking, capital markets services, investment management, investment advisory, and insurance services.  The firm is headquartered in New York City and Chicago with 2,300 staff located in 20 cities throughout the United States, Europe, and Asia.  It has more than $290 billion of assets under management.  The firm's CEO is Mark Walter.  It has six Managing Partners who are key executives, and with a Senior Leadership Team of 17 other executives, oversee the Firm's businesses.  It was founded by Peter Lawson-Johnston II, Solomon R. Guggenheim's great-grandson."
+      },
+      {
+        "doc_id": "q5a7cf4e355429907fabef062_p4",
+        "title": "Mark Walter",
+        "text": "Mark Walter: Mark Walter is a founder and the chief executive officer of Guggenheim Partners, a privately held global financial services firm with more than $300 billion in assets under management and headquarters in Chicago and New York.  He is also the Chairman of the Los Angeles Dodgers Major League Baseball franchise."
+      },
+      {
+        "doc_id": "q5a7cf4e355429907fabef062_p5",
+        "title": "Founder CEO",
+        "text": "Founder CEO: A founder CEO is a person who founded a firm by taking initiative and deciding to create their vision for a firm in actual life, and held the CEO position subsequently.  If the firm's CEO is not a founder or the founder CEO is succeeded, the firm is said to be led by a non-founder CEO, otherwise known as a successor CEO.  Research has highlighted differences among founder and non-founder CEOs that impact firm performance.  The negative and positive contributions identified in research include: stock performance, equity stake in the firm, managerial incentives, innovation investment, and outlook towards mergers and acquisitions."
+      },
+      {
+        "doc_id": "q5a7cf4e355429907fabef062_p6",
+        "title": "Brian D. Montgomery",
+        "text": "Brian D. Montgomery: Brian Darrell Montgomery (born August 2, 1956) is an American government official.  He served as Assistant Secretary of Housing and Urban Development for Housing within the United States Department of Housing and Urban Development during the administration of George W. Bush.  He was confirmed to the position in February 2005 and resigned in July 2009.  Currently a partner at business consulting firm Collingwood Group, LLC, he has been nominated by President Donald Trump to return to his former position as Assistant Secretary of Housing and Urban Development for Housing."
+      },
+      {
+        "doc_id": "q5a7cf4e355429907fabef062_p7",
+        "title": "Eldridge Industries",
+        "text": "Eldridge Industries: Eldridge Industries, LLC is a Private equity investment holdings firm owned by Todd Boehly, the former president of Guggenheim Partners. The company was formed via the corporate spin-off of the media properties of Guggenheim subsidiary Prometheus Global Media announced on December 17, 2015."
+      },
+      {
+        "doc_id": "q5a7cf4e355429907fabef062_p8",
+        "title": "Andrew Todd (fur trader)",
+        "text": "Andrew Todd (fur trader): Andrew Todd (c. 1754–1796) was an Ulster merchant and fur trader at Montréal and Louisiana.  Born into a wealthy family at Coleraine, County Londonderry, he was the son of Daniel Todd (1735-1783) of Randalstown, Co.  Antrim, and his wife Letitia Thornton, sister of Lt.-General Sir William Thornton.  He came to North America to work in the trading firm of his uncle, Isaac Todd, who was the business partner of James McGill at Montreal.  He became a junior partner of the firm and in 1791 was admitted as a member of the Beaver Club.  In 1794, the Spanish Governor, Francisco Luis Héctor de Carondelet, granted him an exclusive monopoly over all the trade in Louisiana; highly sought after particularly by Canadians as it was then still separate to the United States.  This gave him the exclusive right to the valuable trade on the Upper Mississippi River, the Missouri River and the area north of Ohio.  He jealously defended his position and soon became known in the region as \"\"Don Andreas\"\", successfully sending vast stores of goods up from New Orleans while bringing back furs.  His uncle's firm back in Montreal, \"Todd, McGill & Co.,\" had found itself in a position to then monopolize the supply of the entire Mississippi Valley, but the declaration of war between Spain and Britain in October 1796, followed by Andrew’s death at New Orleans later that year, dashed their expectations.  At his decease, Andrew Todd was unmarried and left no children.  By his will, he released his slave, Jack, and left his entire estate to his uncle, Isaac, except for $500 that he left to James McGill, the other executor of his will."
+      },
+      {
+        "doc_id": "q5a7cf4e355429907fabef062_p9",
+        "title": "Minister of Manpower and Immigration (Canada)",
+        "text": "Minister of Manpower and Immigration (Canada): Minister of Manpower and Immigration was a former position in the Cabinet of Canada from 1966 to 1977.  The position was created after the Minister of Citizenship and Immigration was dissolved in 1966.  In 1977, this position was abolished and replaced with the"
+      }
+    ]
+  },
+  {
+    "id": "q5ae4d3c95542990ba0bbb165",
+    "question": "In what city can a person find both the Nusretiye Clock Tower and the Eski Imaret Mosque be found?",
+    "expected_output": "Istanbul, Turkey",
+    "query_type": "comparison",
+    "level": "hard",
+    "gold_doc_ids": [
+      "q5ae4d3c95542990ba0bbb165_p3",
+      "q5ae4d3c95542990ba0bbb165_p8"
+    ],
+    "passages": [
+      {
+        "doc_id": "q5ae4d3c95542990ba0bbb165_p0",
+        "title": "Clock Tower, Brighton",
+        "text": "Clock Tower, Brighton: The Clock Tower (sometimes called the Jubilee Clock Tower) is a free-standing clock tower in the centre of Brighton, part of the English city of Brighton and Hove.  Built in 1888 in commemoration of Queen Victoria's Golden Jubilee, the distinctive structure included innovative structural features and became a landmark in the popular and fashionable seaside resort.  The city's residents \"retain a nostalgic affection\" for it, even though opinion is sharply divided as to the tower's architectural merit.  English Heritage has listed the clock tower at Grade II for its architectural and historical importance."
+      },
+      {
+        "doc_id": "q5ae4d3c95542990ba0bbb165_p1",
+        "title": "Galle Clock Tower",
+        "text": "Galle Clock Tower: The Galle Clock Tower (or Anthonisz Memorial Clock Tower) is located within the Galle Fort in Galle, Sri Lanka.  The Clock Tower is a popular landmark and overlooks the central Moon Bastion, on the site of the former guard room.  The Clock Tower was constructed in 1883, paid for through public subscriptions by the people of Galle, in recognition of Dr. P. D. Anthonisz.  The clock itself was the sole gift of a grateful patient, Mudaliyar Samson de Abrew Rajapakse."
+      },
+      {
+        "doc_id": "q5ae4d3c95542990ba0bbb165_p2",
+        "title": "Azam mosque of Qom",
+        "text": "Azam mosque of Qom: On 22 June 1954 The foundation stone of this great mosque was laid in a religious customs.  That day fell on the birth day of Ali al-Ridha, eighth Imam of shia.  The construction of it was ended in 1961.  Azam mosque had been built basis on the Islamic architecture.  This mosque made of four prayer halls and three towering balconies.  The diameter of the large dome of the mosque is 30 metres and its height above the roof of the mosque is 15 metres and 35 metres from the basement of the mosque.  The minarets of the mosque has 25 metres length above the roof of the mosque and 45 metres from the basement of the mosque.  The upper part of the minarets is 5 metres .  It has special section and used to call to prayers (A'zaan).  A towering clock tower with a big clock is located in the north of the mosque and this tower can be seen from all the four sides of the mosque."
+      },
+      {
+        "doc_id": "q5ae4d3c95542990ba0bbb165_p3",
+        "title": "Eski Imaret Mosque",
+        "text": "Eski Imaret Mosque: Eski Imaret Mosque (Turkish: \"Eski Imaret Camii\" ) is a former Eastern Orthodox church converted into a mosque by the Ottomans.  The church has traditionally been identified with that belonging to the Monastery of Christ Pantepoptes (Greek: Μονή του Χριστού Παντεπόπτη ), meaning \"Christ the all-seeing\".  It is the only documented 11th-century church in Istanbul which survives intact, and represents a key monument of middle Byzantine architecture.  Despite that, the building remains one among the least studied of the city."
+      },
+      {
+        "doc_id": "q5ae4d3c95542990ba0bbb165_p4",
+        "title": "Birgu Clock Tower",
+        "text": "Birgu Clock Tower: The Birgu Clock Tower (Maltese: \"It-Torri tal-Arloġġ tal-Birgu\" ), also called the \"Vittoriosa Clock Tower\" and originally the Civic Clock Tower, was a clock tower in Birgu, Malta.  It was located in Victory Square, the city's main square, and it was a prominent landmark in Birgu and the rest of the Three Cities.  The tower was probably built in the Middle Ages, although some sources state that it was constructed in 1549.  It served as a watchtower since it had views over the Grand Harbour and the surrounding countryside, and it saw use during the Great Siege of Malta in 1565.  A clock was installed in the tower in the 17th century."
+      },
+      {
+        "doc_id": "q5ae4d3c95542990ba0bbb165_p5",
+        "title": "Tashkopryu Mosque",
+        "text": "Tashkopryu Mosque: Tashkyopryu Mosque (Bulgarian: Ташкьопрю джамия \"Tashkyopryu Dzhamiya\", Turkish: \"Taşköprü Camii\") is a mosque in Plovdiv, Bulgaria , built by Ottoman Turks in 16th century during their 500-year rule in today's Bulgaria.  It is currently the third mosque in Plovdiv which is in good condition after Dzhumaya Mosque and Imaret Mosque.  It is currently inactive despite efforts and demands, mainly by Turks of Bulgaria, to give active status for it."
+      },
+      {
+        "doc_id": "q5ae4d3c95542990ba0bbb165_p6",
+        "title": "Kumanovo Clock Tower",
+        "text": "Kumanovo Clock Tower: Kumanovo Clock Tower (Macedonian: Саат Кула Куманово ) was a clock tower in Kumanovo, Ottoman Empire (today Republic of Macedonia).  The tower is believed to have existed since the second half of the 18th century but there are now known historical facts.  It was near Eski Mosque in the former Orta Bunar Neighborhood (Macedonian: Орта Бунар Маало ).  It was demolished after the Second World War."
+      },
+      {
+        "doc_id": "q5ae4d3c95542990ba0bbb165_p7",
+        "title": "Hysen Pasha Mosque",
+        "text": "Hysen Pasha Mosque: Hysen Pasha Mosque (Albanian: \"Xhamia e Hysen Pashës\" ) or Clock Mosque \"(Xhamia e Sahatit)\" is a Cultural Monument of Albania, located in Berat.  It was built in 1670 by Hussein Pasha.  It is named Clock Mosque because in 1870 the Ottomans built a clock tower next to it.  The clock tower was destroyed during the Communist dictatorship in 1967.  The mosque also got destroyed with the minaret being the only part left over.  After the end of Communism the mosque got renovated."
+      },
+      {
+        "doc_id": "q5ae4d3c95542990ba0bbb165_p8",
+        "title": "Nusretiye Clock Tower",
+        "text": "Nusretiye Clock Tower: Nusretiye Clock Tower, aka Tophane Clock Tower, is a clock tower situated in Tophane, a neighborhood in Beyoğlu district of Istanbul, Turkey next to Nusretiye Mosque and Tophane Kiosk at the European waterfront of Bosphorus.  It was ordered by the Ottoman sultan Abdülmecid I (1823-1861), designed by architect Garabet Amira Balyan and completed in 1848."
+      },
+      {
+        "doc_id": "q5ae4d3c95542990ba0bbb165_p9",
+        "title": "Clock Tower of Murshidabad",
+        "text": "Clock Tower of Murshidabad: The Clock Tower of Murshidabad (locally known just as \"Clock Tower\" or \"Ghari Ghar\", also known as \"Big Ben of Murshidabad\") is a clock tower in the Nizamat Fort Campus in West Bengal, India.  The clock tower stands in the garden space between the Nizamat Imambara and the Hazarduari Palace; to its east, hardly a few feet away, is the old Madina Mosque and the Bacchawali Tope."
+      }
+    ]
+  },
+  {
+    "id": "q5a7652435542992d0ec060a5",
+    "question": "Who was the first Russian composer to make a lasting impression internationally, Alessandro Scarlatti or Pyotr Ilyich Tchaikovsky?",
+    "expected_output": "Pyotr Ilyich Tchaikovsky",
+    "query_type": "comparison",
+    "level": "hard",
+    "gold_doc_ids": [
+      "q5a7652435542992d0ec060a5_p0",
+      "q5a7652435542992d0ec060a5_p3"
+    ],
+    "passages": [
+      {
+        "doc_id": "q5a7652435542992d0ec060a5_p0",
+        "title": "Alessandro Scarlatti",
+        "text": "Alessandro Scarlatti: Pietro Alessandro Gaspare Scarlatti (2 May 1660 – 22 October 1725) was an Italian Baroque composer, especially famous for his operas and chamber cantatas.  He is considered the founder of the Neapolitan school of opera.  He was the father of two other composers, Domenico Scarlatti and Pietro Filippo Scarlatti."
+      },
+      {
+        "doc_id": "q5a7652435542992d0ec060a5_p1",
+        "title": "Chaikovskij (crater)",
+        "text": "Chaikovskij (crater): Chaikovskij (sometimes Tchaikovsky) is a crater on Mercury.  It has a diameter of 165 kilometers.  Its name was adopted by the International Astronomical Union in 1976.  Chaikovskij is named for the Russian composer Pyotr Ilyich Tchaikovsky, who lived from 1840 to 1893."
+      },
+      {
+        "doc_id": "q5a7652435542992d0ec060a5_p2",
+        "title": "Piano Concerto No. 2 (Tchaikovsky)",
+        "text": "Piano Concerto No. 2 (Tchaikovsky): Pyotr Ilyich Tchaikovsky's Piano Concerto No. 2 in G major, Op.  44, was written in 1879–1880.  It was dedicated to Nikolai Rubinstein, who had insisted he be allowed to perform it at the premiere as a way of making up for his harsh criticism of Tchaikovsky's First Piano Concerto.  Rubinstein was destined never to play it, however, as he died in March 1881.  The premiere performance took place in New York City, on 12 November 1881.  The soloist was Madeline Schiller, and Theodore Thomas conducted the New York Philharmonic orchestra.  The first Russian performance was in Moscow in May 1882, conducted by Anton Rubinstein with Tchaikovsky's pupil, Sergei Taneyev, at the piano."
+      },
+      {
+        "doc_id": "q5a7652435542992d0ec060a5_p3",
+        "title": "Pyotr Ilyich Tchaikovsky",
+        "text": "Pyotr Ilyich Tchaikovsky: Pyotr Ilyich Tchaikovsky ( ; Russian: Пётр Ильи́ч Чайко́вский ; 25 April/7 May 1840 – 25 October/6 November 1893), often anglicized as Peter Ilich Tchaikovsky, was a Russian composer of the romantic period, some of whose works are among the most popular music in the classical repertoire.  He was the first Russian composer whose music made a lasting impression internationally, bolstered by his appearances as a guest conductor in Europe and the United States.  Tchaikovsky was honored in 1884, by Emperor Alexander III, and awarded a lifetime pension."
+      },
+      {
+        "doc_id": "q5a7652435542992d0ec060a5_p4",
+        "title": "Kamarinskaya",
+        "text": "Kamarinskaya: Kamarinskaya (Russian: камаринская ) is a Russian traditional folk dance, which is mostly known today as the Russian composer Mikhail Glinka's composition of the same name.  Glinka's \"Kamarinskaya\", written in 1848, was the first orchestral work based entirely on Russian folk song and to use the compositional principles of that genre to dictate the form of the music.  It became a touchstone for the following generation of Russian composers ranging from the Western-oriented Pyotr Ilyich Tchaikovsky to the group of nationalists known collectively as The Five and was also lauded abroad, most notably by French composer Hector Berlioz."
+      },
+      {
+        "doc_id": "q5a7652435542992d0ec060a5_p5",
+        "title": "Tchaikovsky (film)",
+        "text": "Tchaikovsky (film): Tchaikovsky (Russian: Чайковский ) is a 1970 Soviet biopic film directed by Igor Talankin.  It featured Innokenty Smoktunovsky in the role of the famous Russian composer Pyotr Ilyich Tchaikovsky.  It was nominated for the 1971 Academy Award for Best Foreign Language Film as well as the Academy Award for Original Song Score and Adaptation."
+      },
+      {
+        "doc_id": "q5a7652435542992d0ec060a5_p6",
+        "title": "Piano Sonata in C-sharp minor (Tchaikovsky)",
+        "text": "Piano Sonata in C-sharp minor (Tchaikovsky): The Piano Sonata in C-sharp minor, Op.  posth.  80, was written by Russian composer Pyotr Ilyich Tchaikovsky in 1865, his last year as a student at the St Petersburg Conservatory.  The sonata in its original form was not published in Tchaikovsky's lifetime; it was published in 1900 by P. Jurgenson, and given the posthumous opus number 80."
+      },
+      {
+        "doc_id": "q5a7652435542992d0ec060a5_p7",
+        "title": "Swan Lake (1895)",
+        "text": "Swan Lake (1895): The 1917 Petipa/Ivanov/Drigo revival of Swan Lake is a famous version of the ballet \"Swan Lake\", (ru. \" Лебединое Озеро\"), (fr.  \"Le Lac des Cygnes\").  This is a ballet by Pyotr Ilyich Tchaikovsky based on an ancient German legend, presented in either four acts, four scenes (primarily outside Russia and Eastern Europe), three acts, four scenes (primarily in Russia and Eastern Europe) or, more rarely, in two acts, four scenes.  Originally choreographed by Julius Reisinger to the music of Pyotr Ilyich Tchaikovsky (opus 20), it was first presented as \"The Lake of the Swans\" by the Ballet of the Moscow Imperial Bolshoi Theatre on 20 February/4 March 1877 (Julian/Gregorian calendar dates) in Moscow, Russia.  Although the ballet is presented in many different versions, most ballet companies today base their stagings both choreographically and musically on this revival by Marius Petipa and Lev Ivanov, staged for the Imperial Ballet, first presented on 15 January/27 January 1895, at the Imperial Mariinsky Theatre in St. Petersburg, Russia instead of the original version."
+      },
+      {
+        "doc_id": "q5a7652435542992d0ec060a5_p8",
+        "title": "International Tchaikovsky Competition",
+        "text": "International Tchaikovsky Competition: The International Tchaikovsky Competition is a classical-music competition held every four years in Moscow, Russia, for pianists, violinists, and cellists between 16 and 32 years of age, and singers between 19 and 32 years of age.  The competition is named after Russian composer Pyotr Ilyich Tchaikovsky and is an active member of the World Federation of International Music Competitions."
+      },
+      {
+        "doc_id": "q5a7652435542992d0ec060a5_p9",
+        "title": "Symphony No. 2 (Rachmaninoff)",
+        "text": "Symphony No. 2 (Rachmaninoff): Symphony No. 2 in E minor, Op. 27 is a symphony by the Russian composer Sergei Rachmaninoff, written in 1906–07.  The premiere was conducted by the composer himself in Saint Petersburg on 8 February 1908.  Its duration is approximately 60 minutes when performed uncut; cut performances can be as short as 35 minutes.  The score is dedicated to Sergei Taneyev, a Russian composer, teacher, theorist, author, and pupil of Pyotr Ilyich Tchaikovsky.  Alongside his Piano Concerto No. 2 and Piano Concerto No. 3, this symphony remains one of the composer's best known compositions."
+      }
+    ]
+  },
+  {
+    "id": "q5a7b7ff75542995eb53be93d",
+    "question": "Who was born first, Arthur Conan Doyle or Penelope Lively?",
+    "expected_output": "Arthur Ignatius Conan Doyle",
+    "query_type": "comparison",
+    "level": "hard",
+    "gold_doc_ids": [
+      "q5a7b7ff75542995eb53be93d_p3",
+      "q5a7b7ff75542995eb53be93d_p6"
+    ],
+    "passages": [
+      {
+        "doc_id": "q5a7b7ff75542995eb53be93d_p0",
+        "title": "Dead Man's Land",
+        "text": "Dead Man's Land: Dead Man's Land is a book by Robert Ryan, based in World War I.  It involves Sherlock Holmes' sidekick, Dr. Watson (created by Arthur Conan Doyle).  It is fully authorized by Conan Doyle Estate Ltd. \"Dead Man' Land\" has been written under license from the Sir Arthur Conan Doyle literary Estate"
+      },
+      {
+        "doc_id": "q5a7b7ff75542995eb53be93d_p1",
+        "title": "The Adventure of the Empty House",
+        "text": "The Adventure of the Empty House: \"The Adventure of the Empty House\", one of the 56 Sherlock Holmes short stories written by British author Sir Arthur Conan Doyle, is one of 13 stories in the cycle collected as \"The Return of Sherlock Holmes\".  Public pressure forced Conan Doyle to bring the sleuth back to life, and explain his apparently miraculous survival of a deadly struggle with Professor Moriarty.  Doyle ranked \"The Adventure of the Empty House\" sixth in his list of his twelve favorite Holmes stories."
+      },
+      {
+        "doc_id": "q5a7b7ff75542995eb53be93d_p2",
+        "title": "The Return of Sherlock Holmes (1929 film)",
+        "text": "The Return of Sherlock Holmes (1929 film): The Return of Sherlock Holmes is a 1929 American Pre-Code mystery film directed by Basil Dean and written by Arthur Conan Doyle, Basil Dean and Garrett Fort.  The film shares its title with the third volume of the Sherlock Holmes stories, \"The Return of Sherlock Holmes\" by Arthur Conan Doyle.  The film stars Clive Brook, H. Reeves-Smith, Betty Lawford, Charles Hay and Phillips Holmes.  The film was released October 29, 1929, by Paramount Pictures.  A copy is held at the Library of Congress."
+      },
+      {
+        "doc_id": "q5a7b7ff75542995eb53be93d_p3",
+        "title": "Arthur Conan Doyle",
+        "text": "Arthur Conan Doyle: Sir Arthur Ignatius Conan Doyle KStJ, DL (22 May 1859 – 7 July 1930) was a British writer best known for his detective fiction featuring the character Sherlock Holmes.  Originally a physician, in 1887 he published \"A Study in Scarlet\", the first of four novels about Holmes and Dr. Watson.  In addition, Doyle wrote over fifty short stories featuring the famous detective."
+      },
+      {
+        "doc_id": "q5a7b7ff75542995eb53be93d_p4",
+        "title": "Sherlock Holmes (1916 film)",
+        "text": "Sherlock Holmes (1916 film): Sherlock Holmes is a 1916 American silent film starring William Gillette as Arthur Conan Doyle's Sherlock Holmes.  The film, which was directed by Arthur Berthelet, was produced by Essanay Studios in Chicago.  It was adapted from the 1899 stage play of the same name, which was based on the stories, \"A Scandal in Bohemia,\" \"The Final Problem,\" and \"A Study in Scarlet\" by Arthur Conan Doyle."
+      },
+      {
+        "doc_id": "q5a7b7ff75542995eb53be93d_p5",
+        "title": "Douglas Ainslie",
+        "text": "Douglas Ainslie: Grant Duff Douglas Ainslie (1865–27 March 1948) was a Scottish poet, translator, critic and diplomat.  He was born in Paris, France, and educated at Eton College and at Balliol and Exeter Colleges, Oxford.  A contributor to the Yellow Book, he met and befriended Oscar Wilde at age twenty-one while an undergraduate at Oxford.  He was also associated with other such notable figures as Aubrey Beardsley, Walter Pater and Marcel Proust.  The first translator of the Italian philosopher Benedetto Croce into English, he also lectured on Hegel.  He was identified as the \"Dear Ainslie\" recipient of twelve letters written by Arthur Conan Doyle in 1895 - 1896, which were auctioned by Christie's in 2004.  (http://www.bestofsherlock.com/ref/200405christies_lots.htm) See \"The Identification of Ainslie\" by Al Dawson in \"The Magic Door\", v. 14, no. 2 (Summer 2012), pp. 1,6,7 - a publication of The Friends of the Arthur Conan Doyle Collection, Toronto Public Libraries."
+      },
+      {
+        "doc_id": "q5a7b7ff75542995eb53be93d_p6",
+        "title": "Penelope Lively",
+        "text": "Penelope Lively: Dame Penelope Margaret Lively DBE FRSL (born 17 March 1933) is a British writer of fiction for both children and adults.  She has won both the Booker Prize (\"Moon Tiger\", 1987) and the Carnegie Medal for British children's books (\"The Ghost of Thomas Kempe\", 1973)."
+      },
+      {
+        "doc_id": "q5a7b7ff75542995eb53be93d_p7",
+        "title": "Sherlock Holmes (2010 film)",
+        "text": "Sherlock Holmes (2010 film): Sir Arthur Conan Doyle's Sherlock Holmes, also known simply as Sherlock Holmes, is a British-American 2010 steampunk mystery film directed by Rachel Lee Goldenberg and produced by independent American film studio The Asylum.  It features the Sherlock Holmes characters created by Sir Arthur Conan Doyle, though it follows an original plot.  The film details an unrecorded case in which eccentric detective Holmes and his companion Dr. Watson investigate a series of unusual monster attacks and a plot to destroy London.  Gareth David-Lloyd plays Dr. John Watson and Ben Syder, making his film debut, plays Sherlock Holmes."
+      },
+      {
+        "doc_id": "q5a7b7ff75542995eb53be93d_p8",
+        "title": "The Lost World (TV series)",
+        "text": "The Lost World (TV series): Sir Arthur Conan Doyle's The Lost World is a syndicated television series loosely based on the 1912 novel by Sir Arthur Conan Doyle, \"The Lost World\".  The show premiered in the United States in the fall of 1999 (after the TV-movie/pilot aired in February on DirecTV and then on the cable television channel TNT in April), it ran for three seasons before it was cancelled on a cliffhanger in 2002 after funding for a fourth season fell through.  To this day, the cliffhanger remains unresolved.  All three seasons were released in DVD box sets in 2004."
+      },
+      {
+        "doc_id": "q5a7b7ff75542995eb53be93d_p9",
+        "title": "Adrian Conan Doyle",
+        "text": "Adrian Conan Doyle: Adrian Malcolm Conan Doyle (19 November 19103 June 1970) was the youngest son of Sir Arthur Conan Doyle and his second wife Jean, Lady Doyle or Lady Conan Doyle.  He had two siblings, sister Jean and brother Denis, as well as two half-siblings, sister Mary and brother Kingsley."
+      }
+    ]
+  }
+]

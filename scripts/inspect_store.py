@@ -9,7 +9,7 @@ import chromadb
 parser = argparse.ArgumentParser(description="Dump a Chroma collection to terminal and CSV")
 parser.add_argument("--path", default="chroma_db")
 parser.add_argument("--name", required=True)
-parser.add_argument("--out", default="data/store_dump.csv")
+parser.add_argument("--out", default=None, help="default: data/<collection name>.csv")
 args = parser.parse_args()
 
 col = chromadb.PersistentClient(path=args.path).get_collection(args.name)
@@ -26,7 +26,7 @@ for r in rows[:10]:
     print(f'{r["id"]:<12} {r["text"][:80]!r}')
 
 # Generate timestamped filename
-out_path = Path(args.out)
+out_path = Path(args.out) if args.out else Path("data") / f"{col.name}.csv"
 timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 
 filename = f"{out_path.stem}_{timestamp}{out_path.suffix}"
