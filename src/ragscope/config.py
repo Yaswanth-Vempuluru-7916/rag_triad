@@ -5,6 +5,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+# Shared by build_index.py and eval_retriever.py so they can never disagree about which index to use.
+CHUNK_SIZE, OVERLAP = 500, 50
+
 # (provider, model_name) per role. Providers are resolved in embed.py and llm.py.
 MODELS = {
     "local": {

@@ -1,12 +1,10 @@
 import json
 
 from ragscope.chunking import chunk
-from ragscope.config import collection_name
+from ragscope.config import CHUNK_SIZE, OVERLAP, collection_name
 from ragscope.embed import make_embedder
 from ragscope.schemas import Document
 from ragscope.store import add_chunks_to_chromadb, get_collection
-
-CHUNK_SIZE, OVERLAP = 500, 50
 
 golden = json.load(open("golden/golden.json"))
 docs = [Document(p["doc_id"], q["id"], p["text"]) for q in golden for p in q["passages"]]

@@ -1,0 +1,179 @@
+{
+  "collection": "chunks_500_50_BAAI-bge-small-en-v1.5",
+  "averages": {
+    "rr": 0.9555555555555556,
+    "recall@1": 0.4666666666666667,
+    "precision@1": 0.9333333333333333,
+    "recall@3": 0.9,
+    "precision@3": 0.6,
+    "recall@5": 0.9666666666666667,
+    "precision@5": 0.3866666666666667
+  },
+  "per_question": [
+    {
+      "id": "q5ab64285554299637185c67c",
+      "question": "George H. W. Bush,  a resident of West Oaks Subdivision in Houston Texas, became what number President in 1989?",
+      "rr": 1.0,
+      "recall@1": 0.5,
+      "precision@1": 1.0,
+      "recall@3": 1.0,
+      "precision@3": 0.6666666666666666,
+      "recall@5": 1.0,
+      "precision@5": 0.4
+    },
+    {
+      "id": "q5a7d2afd5542995f4f402221",
+      "question": "Who is older, Ferdi Taygan or Mahesh Bhupathi?",
+      "rr": 1.0,
+      "recall@1": 0.5,
+      "precision@1": 1.0,
+      "recall@3": 1.0,
+      "precision@3": 0.6666666666666666,
+      "recall@5": 1.0,
+      "precision@5": 0.4
+    },
+    {
+      "id": "q5ae7c5ef5542993210983f44",
+      "question": "Which North Central town in Florida is home to the punk rock band Against Me!?",
+      "rr": 1.0,
+      "recall@1": 0.5,
+      "precision@1": 1.0,
+      "recall@3": 1.0,
+      "precision@3": 0.6666666666666666,
+      "recall@5": 1.0,
+      "precision@5": 0.4
+    },
+    {
+      "id": "q5ab5057b5542991779162d56",
+      "question": "What type of movie are Wishing Stairs and Voice?",
+      "rr": 1.0,
+      "recall@1": 0.5,
+      "precision@1": 1.0,
+      "recall@3": 1.0,
+      "precision@3": 0.6666666666666666,
+      "recall@5": 1.0,
+      "precision@5": 0.4
+    },
+    {
+      "id": "q5a7cbf8c554299452d57b9f4",
+      "question": "Which came out first, Dinosaur or McFarland, USA",
+      "rr": 1.0,
+      "recall@1": 0.5,
+      "precision@1": 1.0,
+      "recall@3": 1.0,
+      "precision@3": 0.6666666666666666,
+      "recall@5": 1.0,
+      "precision@5": 0.4
+    },
+    {
+      "id": "q5a809b575542996402f6a59c",
+      "question": "What former nose tackle announced ESPN College Football Friday Primetime in 2017?",
+      "rr": 1.0,
+      "recall@1": 0.5,
+      "precision@1": 1.0,
+      "recall@3": 0.5,
+      "precision@3": 0.3333333333333333,
+      "recall@5": 1.0,
+      "precision@5": 0.4
+    },
+    {
+      "id": "q5a86769c5542994775f60776",
+      "question": "Armageddon in Retrospect was written by the author who was best known for what 1969 satire novel?",
+      "rr": 1.0,
+      "recall@1": 0.5,
+      "precision@1": 1.0,
+      "recall@3": 1.0,
+      "precision@3": 0.6666666666666666,
+      "recall@5": 1.0,
+      "precision@5": 0.4
+    },
+    {
+      "id": "q5abb23035542992ccd8e7f22",
+      "question": "Kenneth Arnold reported the first unidentified object sighting in what city and state in 1947?",
+      "rr": 1.0,
+      "recall@1": 0.5,
+      "precision@1": 1.0,
+      "recall@3": 0.5,
+      "precision@3": 0.3333333333333333,
+      "recall@5": 0.5,
+      "precision@5": 0.2
+    },
+    {
+      "id": "q5abbdb195542993f40c73bf1",
+      "question": "Which is larger, Garajonay National Park or Guadarrama National Park?",
+      "rr": 1.0,
+      "recall@1": 0.5,
+      "precision@1": 1.0,
+      "recall@3": 1.0,
+      "precision@3": 0.6666666666666666,
+      "recall@5": 1.0,
+      "precision@5": 0.4
+    },
+    {
+      "id": "q5ab1d7ac554299449642c7e6",
+      "question": "Which genus has more species, Xanthoceras or Ehretia?",
+      "rr": 1.0,
+      "recall@1": 0.5,
+      "precision@1": 1.0,
+      "recall@3": 1.0,
+      "precision@3": 0.6666666666666666,
+      "recall@5": 1.0,
+      "precision@5": 0.4
+    },
+    {
+      "id": "q5a7e283655429965cec5eaab",
+      "question": "The founder of this Canadian owned, American manufacturer of business jets for civilian and military developed this portable tape system.",
+      "rr": 1.0,
+      "recall@1": 0.5,
+      "precision@1": 1.0,
+      "recall@3": 1.0,
+      "precision@3": 0.6666666666666666,
+      "recall@5": 1.0,
+      "precision@5": 0.4
+    },
+    {
+      "id": "q5a7cf4e355429907fabef062",
+      "question": "What was Todd Boehly's former position at the firm where Mark Walter is the CEO?",
+      "rr": 0.3333333333333333,
+      "recall@1": 0.0,
+      "precision@1": 0.0,
+      "recall@3": 0.5,
+      "precision@3": 0.3333333333333333,
+      "recall@5": 1.0,
+      "precision@5": 0.4
+    },
+    {
+      "id": "q5ae4d3c95542990ba0bbb165",
+      "question": "In what city can a person find both the Nusretiye Clock Tower and the Eski Imaret Mosque be found?",
+      "rr": 1.0,
+      "recall@1": 0.5,
+      "precision@1": 1.0,
+      "recall@3": 1.0,
+      "precision@3": 0.6666666666666666,
+      "recall@5": 1.0,
+      "precision@5": 0.4
+    },
+    {
+      "id": "q5a7652435542992d0ec060a5",
+      "question": "Who was the first Russian composer to make a lasting impression internationally, Alessandro Scarlatti or Pyotr Ilyich Tchaikovsky?",
+      "rr": 1.0,
+      "recall@1": 0.5,
+      "precision@1": 1.0,
+      "recall@3": 1.0,
+      "precision@3": 0.6666666666666666,
+      "recall@5": 1.0,
+      "precision@5": 0.4
+    },
+    {
+      "id": "q5a7b7ff75542995eb53be93d",
+      "question": "Who was born first, Arthur Conan Doyle or Penelope Lively?",
+      "rr": 1.0,
+      "recall@1": 0.5,
+      "precision@1": 1.0,
+      "recall@3": 1.0,
+      "precision@3": 0.6666666666666666,
+      "recall@5": 1.0,
+      "precision@5": 0.4
+    }
+  ]
+}
