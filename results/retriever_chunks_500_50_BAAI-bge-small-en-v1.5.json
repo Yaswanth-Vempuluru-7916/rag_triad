@@ -1,13 +1,13 @@
 {
   "collection": "chunks_500_50_BAAI-bge-small-en-v1.5",
   "averages": {
-    "rr": 0.9555555555555556,
-    "recall@1": 0.4666666666666667,
-    "precision@1": 0.9333333333333333,
-    "recall@3": 0.9,
-    "precision@3": 0.6,
-    "recall@5": 0.9666666666666667,
-    "precision@5": 0.3866666666666667
+    "rr": 0.9166666666666666,
+    "recall@1": 0.43333333333333335,
+    "precision@1": 0.8666666666666667,
+    "recall@3": 0.8333333333333334,
+    "precision@3": 0.5555555555555556,
+    "recall@5": 0.9,
+    "precision@5": 0.36000000000000004
   },
   "per_question": [
     {
@@ -112,11 +112,11 @@
         },
         {
           "rank": 5,
-          "doc_id": "q5a7d2afd5542995f4f402221_p8",
+          "doc_id": "d5ae5072e55429960a22e0246_p5",
           "chunk_idx": 0,
-          "similarity": 0.4812,
+          "similarity": 0.4857,
           "is_gold": false,
-          "text": "1982 US Open \u2013 Mixed Doubles: Anne Smith and Kevin Curren were the defending champions and won in the final 6\u20137, 7\u20136 (7\u20134), 7\u20136 (7\u20135) against Barbara Potter and Ferdi Taygan."
+          "text": "Raimund Marasigan: Raimund Emmanuel Parcon Marasigan, (born May 22, 1971) or simply known as Raimund Marasigan, is a Rock musician and record producer in the Philippines.  Often, his first name is misspelled as \"Raymond\", \"Raymund\", \"Raimond\" and other variants.  The breadth of his projects has made him one of the most well-respected mainstays of the Philippine rock band scene.  He was the drummer, vocalist and lyricist alongside bandmate Ely Buendia of The Eraserheads, and the current keyboard/"
         }
       ],
       "recall@1": 0.5,
@@ -134,10 +134,18 @@
         "q5ae7c5ef5542993210983f44_p5",
         "q5ae7c5ef5542993210983f44_p7"
       ],
-      "rr": 1.0,
+      "rr": 0.5,
       "retrieved": [
         {
           "rank": 1,
+          "doc_id": "d5a8327fd5542990548d0b1a3_p8",
+          "chunk_idx": 0,
+          "similarity": 0.6117,
+          "is_gold": false,
+          "text": "Fort Worth, Texas: Fort Worth is the 16th-largest city in the United States and the fifth-largest city in the state of Texas.  The city is in North Central Texas and covers nearly 350 sqmi in the counties of Denton, Parker, Wise, and Tarrant, of which it is the county seat.  According to the 2016 census estimates, Fort Worth's population is 854,113.  The city is the second-largest in the Dallas\u2013Fort Worth\u2013Arlington metropolitan area (the \"DFW Metroplex\")."
+        },
+        {
+          "rank": 2,
           "doc_id": "q5ae7c5ef5542993210983f44_p7",
           "chunk_idx": 0,
           "similarity": 0.5848,
@@ -145,42 +153,34 @@
           "text": "Gainesville, Florida: Gainesville is the county seat and largest city in Alachua County, Florida, United States, and the principal city of the Gainesville, Florida Metropolitan Statistical Area (MSA).  The population of Gainesville in the 2013 US Census estimates was 127,488, a 2.4% growth from 2010.  Gainesville is the largest city in the region of North Central Florida.  It is also a component of the Gainesville-Lake City Combined Statistical Area, which had a 2013 population of 337,925."
         },
         {
-          "rank": 2,
+          "rank": 3,
+          "doc_id": "d5ae454355542996836b02c77_p3",
+          "chunk_idx": 0,
+          "similarity": 0.5596,
+          "is_gold": false,
+          "text": "Windsor for the Derby: Windsor for the Derby are an American post-rock band formed in Tampa, Florida in 1995 but currently based in Austin, Texas.  Since their formation, the group has released many albums through labels such as Trance Syndicate, Young God Records, and most recently on Secretly Canadian, and has maintained a revolving door line-up, with founding members Dan Matz and Jason McNeely acting as the band's core."
+        },
+        {
+          "rank": 4,
+          "doc_id": "d5a7cd0fd55429909bec76823_p8",
+          "chunk_idx": 0,
+          "similarity": 0.5565,
+          "is_gold": false,
+          "text": "Switchfoot: Switchfoot is an American alternative rock band from San Diego, California.  The band's members are Jon Foreman (lead vocals, guitar), Tim Foreman (bass guitar, backing vocals), Chad Butler (drums, percussion), Jerome Fontamillas (guitar, keyboards, backing vocals), and Drew Shirley (guitar, backing vocals)."
+        },
+        {
+          "rank": 5,
           "doc_id": "q5ae7c5ef5542993210983f44_p5",
           "chunk_idx": 0,
           "similarity": 0.5432,
           "is_gold": true,
           "text": "Don't Lose Touch: \"Don't Lose Touch\" is a song by the Gainesville, Florida-based punk rock band Against Me! , released as the first single from their 2005 album \"Searching for a Former Clarity\".  Like the second single \"From Her Lips to God's Ears (The Energizer)\", it was released exclusively on twelve-inch vinyl with a remixed version of the song as the A-side and the album version as the B-side.  The A-side version was remixed by German electronic music duo Mouse on Mars.  The single was limit"
-        },
-        {
-          "rank": 3,
-          "doc_id": "q5ae7c5ef5542993210983f44_p4",
-          "chunk_idx": 0,
-          "similarity": 0.489,
-          "is_gold": false,
-          "text": "Area 12 (band): Area 12 is a melodic punk rock band from Bogot\u00e1, Colombia.  The band was founded in 1998 as a school project.  They started out playing in small bars and venues in Bogot\u00e1.  It was not an easy start, full of adversity.  They contributed meaningfully to the creation of a Punk Rock scene in the city.  They are considered to be one of the pioneer bands of Colombian punk rock.  Their influences include punk rock, melodic punk, Latin punk and hard core punk.  They have been strongly in"
-        },
-        {
-          "rank": 4,
-          "doc_id": "q5ae7c5ef5542993210983f44_p8",
-          "chunk_idx": 0,
-          "similarity": 0.4883,
-          "is_gold": false,
-          "text": "Fear of a Punk Planet: Fear of a Punk Planet is the third album by the southern California punk rock band The Vandals, originally released in 1990 by Triple X Records.  It was their first album to include the lineup of Dave Quackenbush, Warren Fitzgerald, Joe Escalante and Josh Freese, solidifying the band's roster after several years of fluctuation.  This lineup would remain intact for the rest of the band's career, and for this reason \"Fear of a Punk Planet\" is considered by many fans to be th"
-        },
-        {
-          "rank": 5,
-          "doc_id": "q5ae7c5ef5542993210983f44_p4",
-          "chunk_idx": 1,
-          "similarity": 0.4874,
-          "is_gold": false,
-          "text": "nk and hard core punk.  They have been strongly influenced by bands such as NOFX and Bad Religion.  They have reached a mature and diverse sound over the years, creating their own lyric and musical style.  They have performed with bands such as Ska-p, Die toten hosen, MxPx, Voodoo Glow Skulls and Joey Cape from Lagwagon."
         }
       ],
-      "recall@1": 0.5,
-      "precision@1": 1.0,
-      "recall@3": 1.0,
-      "precision@3": 0.6666666666666666,
+      "recall@1": 0.0,
+      "precision@1": 0.0,
+      "recall@3": 0.5,
+      "precision@3": 0.3333333333333333,
       "recall@5": 1.0,
       "precision@5": 0.4
     },
@@ -212,6 +212,14 @@
         },
         {
           "rank": 3,
+          "doc_id": "d5a76a0005542993569682c64_p3",
+          "chunk_idx": 1,
+          "similarity": 0.6281,
+          "is_gold": false,
+          "text": " respectively director and co-writer of the first two films.  The plot focuses on the toys Woody, Buzz Lightyear, and their friends dealing with an uncertain future as their owner, Andy, prepares to leave for college.  The film features an ensemble voice cast with Tom Hanks, Tim Allen, Joan Cusack, Don Rickles, Wallace Shawn, John Ratzenberger, Estelle Harris, Jodi Benson, and John Morris reprising their roles from the previous films, along with Blake Clark as the voice of Slinky Dog (because Ji"
+        },
+        {
+          "rank": 4,
           "doc_id": "q5ab5057b5542991779162d56_p7",
           "chunk_idx": 0,
           "similarity": 0.6215,
@@ -219,20 +227,12 @@
           "text": "Song Ji-hyo: Cheon Soo-yeon (born Cheon Seong-im on August 15, 1981), better known by her stage name Song Ji-hyo, is a South Korean actress and model.  She made her acting debut in \"Wishing Stairs\" (2003), one of the horror \"Whispering Corridors film series\".  She then received further recognition for her roles in the romantic comedy drama \"Princess Hours\" (2006), the historical drama \"Jumong\" (2006), the historical film \"A Frozen Flower\" (2008), the crime film \"New World\" (2013), the romantic c"
         },
         {
-          "rank": 4,
-          "doc_id": "q5ab5057b5542991779162d56_p3",
-          "chunk_idx": 0,
-          "similarity": 0.5194,
-          "is_gold": false,
-          "text": "Ninnu Kori: Ninnu Kori (English: \"Wishing For You\" ) is a Telugu language romance film directed by debutant Shiva Nirvana and produced by DVV Danayya under DVV Entertainments.  Nani and Nivetha Thomas play the lead roles in the movie while Aadhi Pinisetty plays a pivotal role.  Gopi Sunder was roped in to compose music for the film.  Prawin Pudi and Karthik Ghattamaneni are the editor and cinematographer of this movie respectively.  The movie was launched in November 2016 and shooting commenced "
-        },
-        {
           "rank": 5,
-          "doc_id": "q5a7cbf8c554299452d57b9f4_p7",
+          "doc_id": "d5ae457a95542996836b02c85_p3",
           "chunk_idx": 0,
-          "similarity": 0.5126,
+          "similarity": 0.6159,
           "is_gold": false,
-          "text": "Dinosaur (film): Dinosaur is a 2000 American CGI animated adventure film produced by Walt Disney Feature Animation and The Secret Lab and released by Walt Disney Pictures.  It is the 39th Disney animated feature film and Disney's The Secret Lab computer animated feature, though it is not officially labeled as one of the animated classics in the United Kingdom, where \"The Wild\" (2006) is included in the canon instead."
+          "text": "Sing (2016 American film): Sing is a 2016 American 3D computer-animated musical comedy film produced by Illumination Entertainment.  It was directed and written by Garth Jennings, co-directed by Christophe Lourdelet, and starring the voices of Matthew McConaughey, Reese Witherspoon, Seth MacFarlane, Scarlett Johansson, John C. Reilly, Taron Egerton, and Tori Kelly.  The film is about a group of anthropomorphic animals that enter a singing competition, hosted by a koala hoping to save his theater"
         }
       ],
       "recall@1": 0.5,
@@ -262,6 +262,14 @@
         },
         {
           "rank": 2,
+          "doc_id": "d5aba77be55429955dce3ee44_p0",
+          "chunk_idx": 0,
+          "similarity": 0.6588,
+          "is_gold": false,
+          "text": "Bone Cabin Quarry: Bone Cabin Quarry was a dinosaur quarry that laid approximately fifty-five miles northwest of Laramie, Wyoming near historic Como Bluff.  During the summer of 1897 Walter W. Granger, a paleontologist from the American Museum of Natural History, came upon a hillside littered with Jurassic period dinosaur bone fragments.  Nearby was a sheepherder's cabin built entirely out of fossil bones, hence the name \"Bone Cabin Quarry.\"  After Granger's discovery in late August 1897, the qu"
+        },
+        {
+          "rank": 3,
           "doc_id": "q5a7cbf8c554299452d57b9f4_p7",
           "chunk_idx": 0,
           "similarity": 0.6432,
@@ -269,28 +277,20 @@
           "text": "Dinosaur (film): Dinosaur is a 2000 American CGI animated adventure film produced by Walt Disney Feature Animation and The Secret Lab and released by Walt Disney Pictures.  It is the 39th Disney animated feature film and Disney's The Secret Lab computer animated feature, though it is not officially labeled as one of the animated classics in the United Kingdom, where \"The Wild\" (2006) is included in the canon instead."
         },
         {
-          "rank": 3,
+          "rank": 4,
+          "doc_id": "d5aba77be55429955dce3ee44_p0",
+          "chunk_idx": 1,
+          "similarity": 0.636,
+          "is_gold": false,
+          "text": "er Granger's discovery in late August 1897, the quarry was kept secret until the summer of 1898, when the manpower could be amassed to undertake a full-scale excavation.  Bone Cabin Quarry was excavated from 1898 until 1905, when the productivity of specimens thinned.  Some of the dinosaurs found at the Bone Cabin Quarry include \"Stegosaurus\", \"Allosaurus\" and \"Apatosaurus\". \" Gargoyleosaurus\" is also known from the Bone Cabin Quarry West locality."
+        },
+        {
+          "rank": 5,
           "doc_id": "q5a7cbf8c554299452d57b9f4_p8",
           "chunk_idx": 0,
           "similarity": 0.6259,
           "is_gold": false,
           "text": "Fruitadens: Fruitadens is a genus of heterodontosaurid dinosaur.  The name means \"Fruita tooth\", in reference to Fruita, Colorado (USA), where its fossils were first found.  It is known from partial skulls and skeletons from at least four individuals of differing biological ages, found in Tithonian (Late Jurassic) rocks of the Morrison Formation in Colorado.  \"Fruitadens\" is the smallest known ornithischian dinosaur, with young adults estimated at 65 to in length and 0.5 to in weight.  It is int"
-        },
-        {
-          "rank": 4,
-          "doc_id": "q5a7cbf8c554299452d57b9f4_p1",
-          "chunk_idx": 1,
-          "similarity": 0.6125,
-          "is_gold": false,
-          "text": "se\", from the Horseshoe Canyon Formation of Alberta, Canada.  The etymology of \"Sphaerotholus\" is a combination of the Greek \"sphaira\", meaning \"ball\", and \"tholos\", meaning \"dome\", and is a reference to the characteristically dome-shaped pachycephalosaurian skull.  The survival of \"Sphaerotholus\" from the Campanian of New Mexico to the end of the Maastrichtian of Montana demonstrates that this taxon had both a relatively long duration (approximately 7-8\u00a0million years) and a widespread distribut"
-        },
-        {
-          "rank": 5,
-          "doc_id": "q5a7cbf8c554299452d57b9f4_p2",
-          "chunk_idx": 0,
-          "similarity": 0.6058,
-          "is_gold": false,
-          "text": "Oryctodromeus: Oryctodromeus (meaning \"digging runner\") was a genus of small ornithopod dinosaur.  Fossils are known from the middle Cretaceous Blackleaf Formation of southwestern Montana and the Wayan Formation of southeastern Idaho, USA, both of the Cenomanian stage, roughly 95 million years ago.  A member of the small, presumably fast-running herbivorous family Thescelosauridae, \"Oryctodromeus\" is the first dinosaur published that shows evidence of burrowing behavior."
         }
       ],
       "recall@1": 0.5,
@@ -320,43 +320,43 @@
         },
         {
           "rank": 2,
-          "doc_id": "q5a809b575542996402f6a59c_p6",
+          "doc_id": "d5a88fa9e5542993b751ca8de_p4",
           "chunk_idx": 0,
-          "similarity": 0.6827,
+          "similarity": 0.7227,
           "is_gold": false,
-          "text": "Rich Dimler: Rich Dimler was a former nose tackle in the National Football League."
+          "text": "ESPN College Football Thursday Primetime: ESPN College Football Primetime is a live game presentation of Division 1-A college football on ESPN.  In the past, the presenting sponsor was Cooper Tires, but since the 2006 season, the current presenting sponsor is Applebee's.  The game telecast airs every Thursday night at 7:45pm ET during the college football regular season.  The game is preceded by a 30-minute segment with Adnan Virk, Joey Galloway and Jesse Palmer, all of whom also appear on the h"
         },
         {
           "rank": 3,
-          "doc_id": "q5a809b575542996402f6a59c_p4",
+          "doc_id": "d5a88fa9e5542993b751ca8de_p9",
           "chunk_idx": 0,
-          "similarity": 0.6613,
+          "similarity": 0.7126,
           "is_gold": false,
-          "text": "Stan Mataele: Stan Mataele is a former nose tackle in the National Football League."
+          "text": "ESPN College Football Saturday Primetime: ESPN College Football Primetime is a live game presentation of Division 1-A college football on ESPN.  In the past, the presenting sponsors have been Polaroid, AT&T and Hampton Hotels.  The current presenting sponsor is Hampton's parent company, Hilton.  The game telecast airs every Saturday night at 7:45pm ET during the college football regular season.  The game is preceded by a 45-minute-long \"College Football Scoreboard\" with Rece Davis, Lou Holtz and"
         },
         {
           "rank": 4,
-          "doc_id": "q5a809b575542996402f6a59c_p1",
+          "doc_id": "d5a88fa9e5542993b751ca8de_p5",
           "chunk_idx": 0,
-          "similarity": 0.6541,
-          "is_gold": true,
-          "text": "Dusty Dvoracek: Dusty Dvoracek (born March 1, 1983) is a former American football nose tackle.  Drafted by the Chicago Bears of the National Football League in the third round of the 2006 NFL Draft, he played college football at Oklahoma and professionally with the Bears from 2006 to 2009 and the Omaha Nighthawks of the United Football League in 2010\u201311."
+          "similarity": 0.6909,
+          "is_gold": false,
+          "text": "Samantha Ponder: Samantha Sainte-Claire Ponder (n\u00e9e Steele) (born December 11, 1985) is an American sportscaster from Phoenix, Arizona who is currently the host of Sunday NFL Countdown on ESPN.  Prior to hosting Sunday NFL Countdown, Ponder worked as a reporter/host for ESPN college football and as a basketball sideline reporter.  Ponder replaced Erin Andrews on \"College GameDay\" Saturdays at 10 AM ET on ESPN, as well as co-host of the Saturday 9 AM ET edition on ESPNU.  In addition to her dutie"
         },
         {
           "rank": 5,
-          "doc_id": "q5a809b575542996402f6a59c_p2",
-          "chunk_idx": 0,
-          "similarity": 0.6517,
+          "doc_id": "d5a88fa9e5542993b751ca8de_p5",
+          "chunk_idx": 1,
+          "similarity": 0.6878,
           "is_gold": false,
-          "text": "Vince Villanucci: Vince Villanucci is a former nose tackle in the National Football League."
+          "text": " AM ET edition on ESPNU.  In addition to her duties on College Gameday, Ponder had been the regular sideline reporter for ESPN's Thursday Night College Football with Rece Davis, Jesse Palmer, and David Pollack from August 2012 until 2014.  Ponder also appeared on the ESPN-owned Texas-oriented regional network Longhorn Network."
         }
       ],
       "recall@1": 0.5,
       "precision@1": 1.0,
       "recall@3": 0.5,
       "precision@3": 0.3333333333333333,
-      "recall@5": 1.0,
-      "precision@5": 0.4
+      "recall@5": 0.5,
+      "precision@5": 0.2
     },
     {
       "id": "q5a86769c5542994775f60776",
@@ -386,27 +386,27 @@
         },
         {
           "rank": 3,
-          "doc_id": "q5a86769c5542994775f60776_p3",
+          "doc_id": "d5a8ca7d4554299240d9c21b8_p9",
           "chunk_idx": 0,
-          "similarity": 0.572,
+          "similarity": 0.61,
           "is_gold": false,
-          "text": "Hugh Gallagher (humorist): Hugh Gallagher is an author and musician from New York City.  He is best known for his satire, including his band Von Von Von, his award-winning satire on the college application essay, \"3A Essay\", and the novel \"Teeth\"."
+          "text": "The Day of the Triffids: The Day of the Triffids is a 1951 post-apocalyptic novel by the English science fiction author John Wyndham.  It is about a plague of blindness that befalls the entire world, allowing the rise of an aggressive species of plant.  Although Wyndham had already published other novels using other pen name combinations drawn from his real name, this was the first novel published as \"John Wyndham\".  It established him as an important writer and remains his best known novel."
         },
         {
           "rank": 4,
-          "doc_id": "q5a86769c5542994775f60776_p2",
+          "doc_id": "d5a822a5e55429926c1cdae43_p3",
           "chunk_idx": 0,
-          "similarity": 0.5658,
+          "similarity": 0.5822,
           "is_gold": false,
-          "text": "Little Big Man (novel): Little Big Man is a 1964 novel by American author Thomas Berger.  Often described as a satire or parody of the western genre, the book is a modern example of picaresque fiction.  Berger made use of a large volume of overlooked first-person primary materials, such as diaries, letters, and memoirs, to fashion a wide-ranging and entertaining tale that comments on alienation, identity, and perceptions of reality.  Easily Berger's best known work, \"Little Big Man\" was made int"
+          "text": "Alan J. Pakula: Alan Jay Pakula ( ; April 7, 1928 \u2013 November 19, 1998) was an American film director, writer and producer.  He was nominated for three Academy Awards: Best Picture for \"To Kill a Mockingbird\" (1962), Best Director for \"All the President's Men\" (1976) and Best Adapted Screenplay for \"Sophie's Choice\" (1982)."
         },
         {
           "rank": 5,
-          "doc_id": "q5a86769c5542994775f60776_p5",
+          "doc_id": "d5ae00de055429906c02daab5_p9",
           "chunk_idx": 0,
-          "similarity": 0.5636,
+          "similarity": 0.5805,
           "is_gold": false,
-          "text": "Joanna Russ: Joanna Russ (February 22, 1937 \u2013 April 29, 2011) was an American writer, academic and radical feminist.  She is the author of a number of works of science fiction, fantasy and feminist literary criticism such as \"How to Suppress Women's Writing\", as well as a contemporary novel, \"On Strike Against God\", and one children's book, \"Kittatinny\".  She is best known for \"The Female Man\", a novel combining utopian fiction and satire, and the story \"When It Changed\"."
+          "text": "Brian Garfield: Brian Francis Wynne Garfield (born January 26, 1939) is an American novelist and screenwriter.  He wrote his first published book at the age of eighteen and wrote several novels under such pen names as \"Frank Wynne\" and \"'Brian Wynne\" before gaining prominence when his book \"Hopscotch\" (1975) won the 1976 Edgar Award for Best Novel.  He is best known for his 1972 novel \"Death Wish\", which was adapted for the 1974 film of the same title, followed by four sequels, and an upcoming r"
         }
       ],
       "recall@1": 0.5,
@@ -444,6 +444,14 @@
         },
         {
           "rank": 3,
+          "doc_id": "d5ac3ae475542995ef918c1e5_p9",
+          "chunk_idx": 0,
+          "similarity": 0.7059,
+          "is_gold": false,
+          "text": "Exeter incident: The Exeter incident was a highly publicized UFO sighting that occurred on September 3, 1965, approximately 5 miles (8\u00a0km) south of Exeter, New Hampshire, in the neighboring town of Kensington.  Although several separate sightings had been made by numerous witnesses in the weeks leading up to September 3, the specific incident, eventually to become by far the most famous, involved a local teenager and two police officers.  The November/December 2011 edition of \"Skeptical Inquirer"
+        },
+        {
+          "rank": 4,
           "doc_id": "q5abb23035542992ccd8e7f22_p2",
           "chunk_idx": 0,
           "similarity": 0.7057,
@@ -451,20 +459,12 @@
           "text": "Nash-Fortenberry UFO sighting: The Nash-Fortenberry UFO sighting was an unidentified flying object sighting that occurred on July 14, 1952, when two commercial pilots (William B. Nash and William H. Fortenberry) claimed to have seen eight UFOs flying in a tight echelon formation over Chesapeake Bay in the state of Virginia."
         },
         {
-          "rank": 4,
+          "rank": 5,
           "doc_id": "q5abb23035542992ccd8e7f22_p9",
           "chunk_idx": 0,
           "similarity": 0.6752,
           "is_gold": false,
           "text": "McMinnville UFO photographs: The McMinnville UFO photographs were taken on a farm near McMinnville, Oregon, United States, in 1950.  The photos were reprinted in \"Life\" magazine and in newspapers across the nation, and are often considered to be among the most famous ever taken of a UFO.  Most UFO skeptics have concluded that the photos are a hoax, but many ufologists continue to argue that the photos are genuine, and show an unidentified object in the sky."
-        },
-        {
-          "rank": 5,
-          "doc_id": "q5abb23035542992ccd8e7f22_p8",
-          "chunk_idx": 1,
-          "similarity": 0.6527,
-          "is_gold": false,
-          "text": "n era of UFO sightings, including numerous reported sightings over the next two to three weeks.  Arnold's description of the objects also led to the press quickly coining the terms \"flying saucer\" and \"flying disc\" as popular descriptive terms for UFOs."
         }
       ],
       "recall@1": 0.5,
@@ -502,6 +502,14 @@
         },
         {
           "rank": 3,
+          "doc_id": "d5a7982435542994bb945701f_p8",
+          "chunk_idx": 0,
+          "similarity": 0.5475,
+          "is_gold": false,
+          "text": "Guaymas: Guaymas (] ) is a city located in Guaymas Municipality in the southwest part of the state of Sonora in northwestern Mexico.  The city is located 117\u00a0km south of the state capital of Hermosillo, and 242 miles from the U.S. border, and is the principal port for the state.  The municipality is located in the Sonora Desert and has a hot, dry climate and 117\u00a0km of beaches.  The municipality\u2019s formal name is Guaymas de Zaragoza and the city\u2019s formal name is the Her\u00f3ica Ciudad de Guaymas."
+        },
+        {
+          "rank": 4,
           "doc_id": "q5abbdb195542993f40c73bf1_p8",
           "chunk_idx": 0,
           "similarity": 0.5408,
@@ -509,20 +517,12 @@
           "text": "Hermigua: Hermigua is a town and a municipality in the northeastern part of La Gomera in the province of Santa Cruz de Tenerife of the Canary Islands, Spain.  It is located 12\u00a0km northwest of the island's capital, San Sebasti\u00e1n de la Gomera.  The Garajonay National Park covers the southern part of the municipality."
         },
         {
-          "rank": 4,
-          "doc_id": "q5abbdb195542993f40c73bf1_p3",
-          "chunk_idx": 0,
-          "similarity": 0.5241,
-          "is_gold": false,
-          "text": "Great Smoky Mountains National Park: Great Smoky Mountains National Park is a United States National Park and UNESCO World Heritage Site that straddles the ridgeline of the Great Smoky Mountains, part of the Blue Ridge Mountains, which are a division of the larger Appalachian Mountain chain.  The border between Tennessee and North Carolina runs northeast to southwest through the centerline of the park.  It is the most visited national park in the United States with over 11.3 million recreational"
-        },
-        {
           "rank": 5,
-          "doc_id": "q5abbdb195542993f40c73bf1_p7",
+          "doc_id": "d5ade3d75554299728e26c68b_p6",
           "chunk_idx": 0,
-          "similarity": 0.5236,
+          "similarity": 0.5278,
           "is_gold": false,
-          "text": "Badiar National Park: Badiar National Park (French: \"Parc National du Badiar\" ) is a national park in Guinea, on the border with Senegal and contiguous with Senegal's much larger Niokolo-Koba National Park.  It was established on 30 May 1985 (by ordonnance N\u00b0124/PRG/85), partly in response to Senegal's concern about poaching in Niokolo-Koba National Park.  Badiar is an International Union for Conservation of Nature Category II park."
+          "text": "Dragon Park Ha Long: Dragon Park is the largest theme park in Southeast Asian located in Ha Long, Quang Ninh, Vietnam.  It opened on January 25, 2017.  The amusement park, managed by the Spanish firm Parques Reunidos, is part of a large resort complex known as SunWorld HaLong Park that includes an aerial tramway called the Queen Cable Car, Sun Wheel \u2014 a large observation wheel, as well as gardens, restaurants, a shopping district and a family entertainment center with arcade games.  The Typhoon "
         }
       ],
       "recall@1": 0.5,
@@ -560,27 +560,27 @@
         },
         {
           "rank": 3,
-          "doc_id": "q5a7cbf8c554299452d57b9f4_p1",
-          "chunk_idx": 1,
-          "similarity": 0.5056,
+          "doc_id": "d5ae207a65542994d89d5b317_p9",
+          "chunk_idx": 2,
+          "similarity": 0.5708,
           "is_gold": false,
-          "text": "se\", from the Horseshoe Canyon Formation of Alberta, Canada.  The etymology of \"Sphaerotholus\" is a combination of the Greek \"sphaira\", meaning \"ball\", and \"tholos\", meaning \"dome\", and is a reference to the characteristically dome-shaped pachycephalosaurian skull.  The survival of \"Sphaerotholus\" from the Campanian of New Mexico to the end of the Maastrichtian of Montana demonstrates that this taxon had both a relatively long duration (approximately 7-8\u00a0million years) and a widespread distribut"
+          "text": ".  The genus \"Cladosporium\" is closely related to black yeasts in the order Dothideales.  \"Cladosporium\" species are often highly osmotolerant, growing easily on media containing 10% glucose or 12\u201317% NaCl.  They are rarely grown on media containing 24% NaCl or 50% glucose and never isolated from medium with 32% NaCl or greater.  Most species have very fragile spore chains, making it extremely difficult to prepare a mount for microscopic observation in which the conidial chains are preserved int"
         },
         {
           "rank": 4,
-          "doc_id": "q5a7cbf8c554299452d57b9f4_p8",
+          "doc_id": "d5a88a19a5542997e5c09a64b_p5",
           "chunk_idx": 0,
-          "similarity": 0.5054,
+          "similarity": 0.5653,
           "is_gold": false,
-          "text": "Fruitadens: Fruitadens is a genus of heterodontosaurid dinosaur.  The name means \"Fruita tooth\", in reference to Fruita, Colorado (USA), where its fossils were first found.  It is known from partial skulls and skeletons from at least four individuals of differing biological ages, found in Tithonian (Late Jurassic) rocks of the Morrison Formation in Colorado.  \"Fruitadens\" is the smallest known ornithischian dinosaur, with young adults estimated at 65 to in length and 0.5 to in weight.  It is int"
+          "text": "Stenodema laevigatum: Stenodema laevigatum, or sometimes Stenodema laevigata (also called Grass bug), is a carnivorous species of bug from Miridae family.  The species have a gray to brown elongated body, with the eyes located backwards in the head.  Sometimes they might come in green colour.  They are 8 - in length, which makes it a rather big species of its kind.  They are common in the United Kingdom, and throughout the rest of Europe."
         },
         {
           "rank": 5,
-          "doc_id": "q5a7cbf8c554299452d57b9f4_p9",
-          "chunk_idx": 1,
-          "similarity": 0.4932,
+          "doc_id": "d5adf39295542992d7e9f92df_p2",
+          "chunk_idx": 0,
+          "similarity": 0.5574,
           "is_gold": false,
-          "text": " suggested that it was a synonym of \"I. bernissartensis\".  Gregory S. Paul, working on a revision of iguanodont species, gave \"I.\" \"lakotaensis\" its own genus (\"Dakotadon\") in 2008."
+          "text": "Apiaceae: Apiaceae or Umbelliferae, is a family of mostly aromatic flowering plants named after the type genus \"Apium\" and commonly known as the celery, carrot or parsley family.  It is the 16th-largest family of flowering plants, with more than 3,700 species in 434 genera including such well-known and economically important plants such as angelica, anise, asafoetida, caraway, carrot, celery, chervil, coriander, cumin, dill, fennel, hemlock, lovage, cow parsley, parsley, parsnip, sea holly, gian"
         }
       ],
       "recall@1": 0.5,
@@ -618,6 +618,14 @@
         },
         {
           "rank": 3,
+          "doc_id": "d5a861fa75542994775f60706_p8",
+          "chunk_idx": 0,
+          "similarity": 0.6233,
+          "is_gold": false,
+          "text": "North American Aviation: North American Aviation (NAA) was a major American aerospace manufacturer, responsible for a number of historic aircraft, including the T-6 Texan trainer, the P-51 Mustang fighter, the B-25 Mitchell bomber, the F-86 Sabre jet fighter, the X-15 rocket plane, and the XB-70, as well as Apollo Command and Service Module, the second stage of the Saturn V rocket, the Space Shuttle orbiter and the B-1 Lancer.  Through a series of mergers and sales, North American Aviation becam"
+        },
+        {
+          "rank": 4,
           "doc_id": "q5a7e283655429965cec5eaab_p2",
           "chunk_idx": 0,
           "similarity": 0.6147,
@@ -625,20 +633,12 @@
           "text": "Qualstar: Qualstar Corporation (NASDAQ:\u00a0QBAK ) is an American manufacturer of magnetic tape data storage products, based in Simi Valley, California.  It was founded in 1984 as a 9 track tape drive manufacturer, and now makes tape library products.  The company sold its last 9 track tape drive in 2006 and as of March 2006 has sold all remaining parts inventory to Vinastar, an aftermarket vendor."
         },
         {
-          "rank": 4,
+          "rank": 5,
           "doc_id": "q5a7e283655429965cec5eaab_p4",
           "chunk_idx": 0,
           "similarity": 0.6125,
           "is_gold": false,
           "text": "TX-2 Tape System: The TX-2 Tape System was a magnetic tape data storage technology from the late 1950s.  It is the direct ancestor of LINCtape, used on the LINC laboratory computer."
-        },
-        {
-          "rank": 5,
-          "doc_id": "q5a7e283655429965cec5eaab_p8",
-          "chunk_idx": 1,
-          "similarity": 0.5982,
-          "is_gold": false,
-          "text": "d extensive knowledge of the emergency freight business and the operation of DC3s, Super DCs and DC4 aircraft due to his position within the inner circle at Millardair.  Dennis Chadala created Air 500 Limited on a shoe string, without financing and was the first airline to receive licensing and an operating certificate at Toronto's Pearson International Airport following deregulation of the aviation industry in Canada in 1985.  The airline grew rapidly adding an aircraft at the pace of 1 every s"
         }
       ],
       "recall@1": 0.5,
@@ -656,7 +656,7 @@
         "q5a7cf4e355429907fabef062_p3",
         "q5a7cf4e355429907fabef062_p7"
       ],
-      "rr": 0.3333333333333333,
+      "rr": 0.25,
       "retrieved": [
         {
           "rank": 1,
@@ -676,6 +676,14 @@
         },
         {
           "rank": 3,
+          "doc_id": "d5a8b8b3155429949d91db5d7_p3",
+          "chunk_idx": 0,
+          "similarity": 0.6637,
+          "is_gold": false,
+          "text": "Warren Buffett: Warren Edward Buffett ( ; born August 30, 1930) is an American business magnate, investor, and philanthropist.  Buffett serves as the Chief Executive Officer and Chairman of Berkshire Hathaway.  He is considered by some to be one of the most successful investors in the world, and as of August 2017 is the second wealthiest person in the United States, and the fourth wealthiest in the world, with a total net worth of $76.9 billion."
+        },
+        {
+          "rank": 4,
           "doc_id": "q5a7cf4e355429907fabef062_p7",
           "chunk_idx": 0,
           "similarity": 0.655,
@@ -683,28 +691,20 @@
           "text": "Eldridge Industries: Eldridge Industries, LLC is a Private equity investment holdings firm owned by Todd Boehly, the former president of Guggenheim Partners. The company was formed via the corporate spin-off of the media properties of Guggenheim subsidiary Prometheus Global Media announced on December 17, 2015."
         },
         {
-          "rank": 4,
-          "doc_id": "q5a7cbf8c554299452d57b9f4_p6",
-          "chunk_idx": 0,
-          "similarity": 0.6186,
-          "is_gold": false,
-          "text": "Mark Ciardi: Mark Thomas Ciardi (born August 19, 1961; pronounced CHAR-dee) is an American film producer and former Major League Baseball pitcher.  He is currently the Founder & CEO of Apex Entertainment.  Mark has a rich breadth of experience as a Film Executive, and Producer.  Apex Entertainment is an independent content production firm that also serves as a financier for media properties.  Prior to Apex, Mark was the co-founder of Mayhem Pictures that had an overall first look deal with Walt "
-        },
-        {
           "rank": 5,
-          "doc_id": "q5a7cf4e355429907fabef062_p3",
+          "doc_id": "d5ac2dfac554299657fa290b3_p9",
           "chunk_idx": 0,
-          "similarity": 0.6037,
-          "is_gold": true,
-          "text": "Guggenheim Partners: Guggenheim Partners is a global investment and advisory financial services firm that engages in investment banking, capital markets services, investment management, investment advisory, and insurance services.  The firm is headquartered in New York City and Chicago with 2,300 staff located in 20 cities throughout the United States, Europe, and Asia.  It has more than $290 billion of assets under management.  The firm's CEO is Mark Walter.  It has six Managing Partners who ar"
+          "similarity": 0.6211,
+          "is_gold": false,
+          "text": "Ernst &amp; Young: EY (formerly Ernst & Young) is a multinational professional services firm headquartered in London, England.  EY is one of the largest professional services firms in the world and is one of the \"Big Four\" accounting firms."
         }
       ],
       "recall@1": 0.0,
       "precision@1": 0.0,
-      "recall@3": 0.5,
-      "precision@3": 0.3333333333333333,
-      "recall@5": 1.0,
-      "precision@5": 0.4
+      "recall@3": 0.0,
+      "precision@3": 0.0,
+      "recall@5": 0.5,
+      "precision@5": 0.2
     },
     {
       "id": "q5ae4d3c95542990ba0bbb165",
@@ -858,19 +858,19 @@
         },
         {
           "rank": 4,
-          "doc_id": "q5a7b7ff75542995eb53be93d_p5",
-          "chunk_idx": 2,
-          "similarity": 0.545,
+          "doc_id": "d5adbe0df554299438c868cc0_p8",
+          "chunk_idx": 0,
+          "similarity": 0.5614,
           "is_gold": false,
-          "text": "ion of The Friends of the Arthur Conan Doyle Collection, Toronto Public Libraries."
+          "text": "W. Somerset Maugham: William Somerset Maugham CH ( ; 25 January 1874 \u2013 16 December 1965), better known as W. Somerset Maugham, was a British playwright, novelist and short story writer.  He was among the most popular writers of his era and reputedly the highest-paid author during the 1930s."
         },
         {
           "rank": 5,
-          "doc_id": "q5a7b7ff75542995eb53be93d_p1",
+          "doc_id": "d5a877dd65542993e715abf79_p0",
           "chunk_idx": 0,
-          "similarity": 0.5405,
+          "similarity": 0.5523,
           "is_gold": false,
-          "text": "The Adventure of the Empty House: \"The Adventure of the Empty House\", one of the 56 Sherlock Holmes short stories written by British author Sir Arthur Conan Doyle, is one of 13 stories in the cycle collected as \"The Return of Sherlock Holmes\".  Public pressure forced Conan Doyle to bring the sleuth back to life, and explain his apparently miraculous survival of a deadly struggle with Professor Moriarty.  Doyle ranked \"The Adventure of the Empty House\" sixth in his list of his twelve favorite Hol"
+          "text": "Halld\u00f3r Laxness: Halld\u00f3r Kiljan Laxness (] ; born Halld\u00f3r Gu\u00f0j\u00f3nsson; 23 April 1902 \u2013 8 February 1998) was a twentieth-century Icelandic writer.  Laxness wrote poetry, newspaper articles, plays, travelogues, short stories, and novels. Major influences included August Strindberg, Sigmund Freud, Sinclair Lewis, Upton Sinclair, Bertolt Brecht and Ernest Hemingway.  In 1955 he was awarded the Nobel Prize in Literature; he is the only Icelandic Nobel laureate."
         }
       ],
       "recall@1": 0.5,
